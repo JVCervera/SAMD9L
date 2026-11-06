@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying SAMD9L manuscript and this repository when using these analyses."
+title: "Germline variation and somatic adaptation in SAMD9L-associated disease"
+type: software
+version: "1.0.0"
+date-released: "2026-10-16"
+authors:
+  - family-names: Liquori
+    given-names: Alessandro
+  - family-names: Cervera
+    given-names: José

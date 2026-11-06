@@ -1,0 +1,9 @@
+1. Descomprime este ZIP.
+2. Crea un repositorio vacío en GitHub con el nombre que prefieras.
+3. Sube el contenido de SAMD9L_reproducibility conservando sus carpetas.
+4. Sigue README.md para instalar dependencias y ejecutar reproduce.py.
+5. Incluye analysis/, figure_code/ y reference/: el código necesita estos datos.
+6. No subas results/, .venv/ ni credenciales.
+7. Añade la URL del repositorio y el DOI del artículo a CITATION.cff cuando estén disponibles.
+
+Se ha verificado la reproducción estadística offline y la generación de las figuras finales. La regeneración de predicciones desde secuencia mediante servicios externos se describe por separado en README.md.
