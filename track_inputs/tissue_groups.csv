@@ -1,0 +1,42 @@
+biosample_name,biosample_type,ontology_curie,group
+B cell,primary_cell,CL:0000236,OTHER_HEMATOPOIETIC
+C4-2B,cell_line,EFO:0006365,OTHER_HEMATOPOIETIC
+CD14-positive monocyte,primary_cell,CL:0001054,MONOCYTE_NEUTROPHIL_ERYTHROID
+"CD14-positive, CD16-negative classical monocyte",primary_cell,CL:0002057,MONOCYTE_NEUTROPHIL_ERYTHROID
+"CD14-positive, CD16-positive monocyte",primary_cell,CL:0002397,MONOCYTE_NEUTROPHIL_ERYTHROID
+"CD4-positive, CD25-positive, alpha-beta regulatory T cell",primary_cell,CL:0000792,OTHER_HEMATOPOIETIC
+"CD4-positive, alpha-beta T cell",primary_cell,CL:0000624,OTHER_HEMATOPOIETIC
+"CD4-positive, alpha-beta memory T cell",primary_cell,CL:0000897,OTHER_HEMATOPOIETIC
+"CD8-positive, alpha-beta T cell",primary_cell,CL:0000625,OTHER_HEMATOPOIETIC
+"CD8-positive, alpha-beta memory T cell",primary_cell,CL:0000909,OTHER_HEMATOPOIETIC
+IgD-negative memory B cell,primary_cell,CL:0001053,OTHER_HEMATOPOIETIC
+T-cell,primary_cell,CL:0000084,OTHER_HEMATOPOIETIC
+bone marrow,tissue,UBERON:0002371,BONE_MARROW
+bone marrow cell,primary_cell,CL:0002092,BONE_MARROW
+"central memory CD4-positive, alpha-beta T cell",primary_cell,CL:0000904,OTHER_HEMATOPOIETIC
+"central memory CD8-positive, alpha-beta T cell",primary_cell,CL:0000907,OTHER_HEMATOPOIETIC
+"common myeloid progenitor, CD34-positive",primary_cell,CL:0001059,CD34_PROGENITOR
+"effector CD4-positive, alpha-beta T cell",primary_cell,CL:0001044,OTHER_HEMATOPOIETIC
+"effector memory CD4-positive, alpha-beta T cell",primary_cell,CL:0000905,OTHER_HEMATOPOIETIC
+"effector memory CD8-positive, alpha-beta T cell",primary_cell,CL:0000913,OTHER_HEMATOPOIETIC
+erythroblast,primary_cell,CL:0000765,MONOCYTE_NEUTROPHIL_ERYTHROID
+gamma-delta T cell,primary_cell,CL:0000798,OTHER_HEMATOPOIETIC
+hematopoietic multipotent progenitor cell,in_vitro_differentiated_cells,CL:0000837,CD34_PROGENITOR
+iPS-15b,cell_line,EFO:0007102,OTHER_HEMATOPOIETIC
+iPS-20b,cell_line,EFO:0007108,OTHER_HEMATOPOIETIC
+immature natural killer cell,primary_cell,CL:0000823,OTHER_HEMATOPOIETIC
+inflammatory macrophage,primary_cell,CL:0000863,MONOCYTE_NEUTROPHIL_ERYTHROID
+lymphoblast,tissue,EFO:0000572,OTHER_HEMATOPOIETIC
+macrophage,primary_cell,CL:0000235,MONOCYTE_NEUTROPHIL_ERYTHROID
+memory B cell,primary_cell,CL:0000787,OTHER_HEMATOPOIETIC
+mesenchymal stem cell of the bone marrow,primary_cell,CL:0002540,BONE_MARROW
+monocyte,primary_cell,CL:0000576,MONOCYTE_NEUTROPHIL_ERYTHROID
+naive B cell,primary_cell,CL:0000788,OTHER_HEMATOPOIETIC
+naive regulatory T cell,primary_cell,CL:0002677,OTHER_HEMATOPOIETIC
+"naive thymus-derived CD4-positive, alpha-beta T cell",primary_cell,CL:0000895,OTHER_HEMATOPOIETIC
+"naive thymus-derived CD8-positive, alpha-beta T cell",primary_cell,CL:0000900,OTHER_HEMATOPOIETIC
+natural killer cell,primary_cell,CL:0000623,OTHER_HEMATOPOIETIC
+neutrophil,primary_cell,CL:0000775,MONOCYTE_NEUTROPHIL_ERYTHROID
+peripheral blood mononuclear cell,primary_cell,CL:2000001,PERIPHERAL_BLOOD_PBMC
+stromal cell of bone marrow,primary_cell,CL:0010001,BONE_MARROW
+suppressor macrophage,primary_cell,CL:0000862,MONOCYTE_NEUTROPHIL_ERYTHROID

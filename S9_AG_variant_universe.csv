@@ -1,0 +1,143 @@
+Origin,Variant_ID,Primary_analysis,AlphaGenome_cDNA,AlphaGenome_protein,AA_position,Functional_class,GRCh38_allele,gnomAD_status,AF
+Germline,INT083,Yes,c.149T>C,p.Leu50Ser,50,Missense,chr7:93135823:A>G,Observed — exact GRCh38 allele,8.673822156906965e-06
+Germline,INT061,Yes,c.190C>G,p.Pro64Ala,64,Missense,chr7:93135782:G>C,Not observed — exact GRCh38 allele,
+Germline,INT041,Yes,c.215A>G,p.Tyr72Cys,72,Missense,chr7:93135757:T>C,Observed — exact GRCh38 allele,1.239111309368921e-06
+Germline,INT084,Yes,c.368C>T,p.Pro123Leu,123,Missense,chr7:93135604:G>A,Observed — exact GRCh38 allele,8.675724949773749e-05
+Germline,INT034,No — secondary/non-primary SAMD9L finding,c.505G>C,p.Asp169His,169,Missense,chr7:93135467:C>G,Observed — exact GRCh38 allele,0.0001189533591313431
+Germline,INT078,Yes,c.659A>G,p.Glu220Gly,220,Missense,chr7:93135313:T>C,Observed — exact GRCh38 allele,3.159545917494963e-05
+Germline,INT100,Yes,c.683G>A,p.Cys228Tyr,228,Missense,chr7:93135289:C>T,Observed — exact GRCh38 allele,1.239054502290392e-06
+Germline,INT005,No — non-primary comparator,NM_152703.5:c.698C>A,p.Thr233Asn,233,Missense,chr7:93135274:G>T,Observed — exact GRCh38 allele,4.336792854947909e-06
+Germline,INT079,Yes,c.703G>A,p.Gly235Ser,235,Missense,chr7:93135269:C>T,Observed — exact GRCh38 allele,2.354396091206826e-05
+Germline,INT080,Yes,c.740G>C,p.Gly247Ala,247,Missense,chr7:93135232:C>G,Observed — exact GRCh38 allele,6.195472101169581e-07
+Germline,INT101,Yes,c.854G>A,p.Arg285Gln,285,Missense,chr7:93135118:C>T,Observed — exact GRCh38 allele,0.0001724071637037028
+Germline,INT081,Yes,c.979A>G,p.Ile327Val,327,Missense,chr7:93134993:T>C,Observed — exact GRCh38 allele,0.0001004108166002633
+Germline,INT106,Yes,NM_152703.5:c.994dup,p.Ile332NfsTer17,332,Frameshift,chr7:93134977:A>AT,Observed — exact GRCh38 allele,1.239690424507192e-05
+Germline,INT086,Yes,c.999G>T,p.Trp333Cys,333,Missense,chr7:93134973:C>A,Observed — exact GRCh38 allele,1.239565953585692e-06
+Germline,INT022,Yes,c.1076G>A,p.Arg359Gln,359,Missense,chr7:93134896:C>T,Observed — exact GRCh38 allele,1.673034525236177e-05
+Germline,INT020,Yes,c.1549T>C,p.Trp517Arg,517,Missense,chr7:93134423:A>G,Observed — exact GRCh38 allele,0.000263972576595423
+Germline,INT007,Yes,c.1877C>T,p.Ser626Leu,626,Missense,chr7:93134095:G>A,Not observed — exact GRCh38 allele,
+Germline,INT052,Yes,c.1905G>T,p.Leu635Phe,635,Missense,chr7:93134067:C>A,Not observed — exact GRCh38 allele,
+Germline,INT035,Yes,c.1909G>A,p.Ala637Thr,637,Missense,chr7:93134063:C>T,Observed — exact GRCh38 allele,0.0001065827224449581
+Germline,INT077,Yes,c.1909G>T,p.Ala637Ser,637,Missense,chr7:93134063:C>A,Observed — exact GRCh38 allele,1.239333981918117e-06
+Germline,INT087,Yes,c.1949A>G,p.Glu650Gly,650,Missense,chr7:93134023:T>C,Not observed — exact GRCh38 allele,
+Germline,INT044,Yes,c.1993A>C,p.Thr665Pro,665,Missense,chr7:93133979:T>G,Not observed — exact GRCh38 allele,
+Germline,INT054,Yes,c.2062T>A,p.Tyr688Asn,688,Missense,chr7:93133910:A>T,Not observed — exact GRCh38 allele,
+Germline,INT036,Yes,c.2069G>A,p.Gly690Asp,690,Missense,chr7:93133903:C>T,Observed — exact GRCh38 allele,0.00036435154719282
+Germline,INT102,Yes,NM_152703.5:c.2089A>T,p.Asn697Tyr,697,Missense,chr7:93133883:T>A,Not observed — exact GRCh38 allele,
+Germline,INT099,Yes,c.2114A>G,p.Tyr705Cys,705,Missense,chr7:93133858:T>C,Observed — exact GRCh38 allele,0.0001995614605915696
+Germline,INT098,Yes,c.2182T>C,p.Ser728Pro,728,Missense,chr7:93133790:A>G,Observed — exact GRCh38 allele,5.57703747769185e-06
+Germline,INT040,Yes,c.2308A>G,p.Lys770Glu,770,Missense,chr7:93133664:T>C,Not observed — exact GRCh38 allele,
+Germline,INT032,Yes,c.2483G>A,p.Arg828Gln,828,Missense,chr7:93133489:C>T,Observed — exact GRCh38 allele,8.066667907692498e-06
+Germline,INT033,Yes,c.2488G>T,p.Glu830Ter,830,Truncating / stop-gain,chr7:93133484:C>A,Observed — exact GRCh38 allele,6.207640612371331e-06
+Germline,INT062,Yes,c.2494dupA,p.Thr832fs,832,Frameshift,chr7:93133477:G>GT,Observed — exact GRCh38 allele,3.101340647535116e-06
+Germline,INT090,Yes,c.2494del,p.Thr832HfsTer3,832,Frameshift,chr7:93133477:GT>G,Observed — exact GRCh38 allele,2.481072518028093e-06
+Germline,INT012,Yes,c.2519T>A,p.Met840Lys,840,Missense,chr7:93133453:A>T,Not observed — exact GRCh38 allele,
+Germline,INT093,Yes,c.2519T>C,p.Met840Thr,840,Missense,chr7:93133453:A>G,Observed — exact GRCh38 allele,4.959567128980983e-06
+Germline,INT057,Yes,c.2581C>T,p.Leu861Phe,861,Missense,chr7:93133391:G>A,Not observed — exact GRCh38 allele,
+Germline,INT029,Yes,c.2626delA,p.Ile876LeufsTer15,876,Frameshift,chr7:93133345:AT>A,Not observed — exact GRCh38 allele,
+Germline,INT048,Yes,c.2627T>C,p.Ile876Thr,876,Missense,chr7:93133345:A>G,Not observed — exact GRCh38 allele,
+Germline,INT046,Yes,c.2633delA,p.Lys878SerfsTer13,878,Frameshift,chr7:93133338:CT>C,Not observed — exact GRCh38 allele,
+Germline,INT002,Yes,NM_152703.5:c.2640C>A,p.His880Gln,880,Missense,chr7:93133332:G>T,Not observed — exact GRCh38 allele,
+Germline,INT047,Yes,c.2654delA,p.Asn885ThrfsTer6,885,Frameshift,chr7:93133317:GT>G,Not observed — exact GRCh38 allele,
+Germline,INT026,Yes,c.2658_2659delTT,p.Phe886LeufsTer11,886,Frameshift,chr7:93133312:TAA>T,Not observed — exact GRCh38 allele,
+Germline,INT060,Yes,c.2663C>T,p.Ser888Phe,888,Missense,chr7:93133309:G>A,Not observed — exact GRCh38 allele,
+Germline,INT027,Yes,c.2666delT,p.Phe889SerfsTer2,889,Frameshift,chr7:93133305:GA>G,Not observed — exact GRCh38 allele,
+Germline,INT003,Yes,c.2672T>C,p.Ile891Thr,891,Missense,chr7:93133300:A>G,Not observed — exact GRCh38 allele,
+Germline,INT038,Yes,c.2675T>G,p.Met892Arg,892,Missense,chr7:93133297:A>C,Not observed — exact GRCh38 allele,
+Germline,INT024,Yes,c.2686T>G,p.Phe896Val,896,Missense,chr7:93133286:A>C,Not observed — exact GRCh38 allele,
+Germline,INT097,Yes,c.2722A>G,p.Ile908Val,908,Missense,chr7:93133250:T>C,Not observed — exact GRCh38 allele,
+Germline,INT053,Yes,c.2800G>C,p.Asp934His,934,Missense,chr7:93133172:C>G,Not observed — exact GRCh38 allele,
+Germline,INT091,Yes,c.2804_2805delCT,p.Ser935YfsTer8,935,Frameshift,chr7:93133166:TAG>T,Not observed — exact GRCh38 allele,
+Germline,INT042,Yes,c.2807C>T,p.Thr936Ile,936,Missense,chr7:93133165:G>A,Not observed — exact GRCh38 allele,
+Germline,INT011,Yes,c.2852_2853insACAC,p.Thr951fs,951,Frameshift,chr7:93133119:A>AGTGT,Observed — exact GRCh38 allele,8.679533041122388e-06
+Germline,INT045,Yes,c.2915T>C,p.Ile972Thr,972,Missense,chr7:93133057:A>G,Not observed — exact GRCh38 allele,
+Germline,INT004,Yes,c.2956C>T,p.Arg986Cys,986,Missense,chr7:93133016:G>A,Not observed — exact GRCh38 allele,
+Germline,INT017,Yes,c.2957G>A,p.Arg986His,986,Missense,chr7:93133015:C>T,Observed — exact GRCh38 allele,9.298415921863551e-06
+Germline,INT059,Yes,c.3052G>A,p.Glu1018Lys,1018,Missense,chr7:93132920:C>T,Observed — exact GRCh38 allele,5.579948887668189e-06
+Germline,INT014,Yes,c.3100G>T,p.Asp1034Tyr,1034,Missense,chr7:93132872:C>A,Not observed — exact GRCh38 allele,
+Germline,INT089,Yes,c.3127C>A,p.Gln1043Lys,1043,Missense,chr7:93132845:G>T,Not observed — exact GRCh38 allele,
+Germline,INT049,Yes,c.3346A>C,p.Asn1116His,1116,Missense,chr7:93132626:T>G,Not observed — exact GRCh38 allele,
+Germline,INT023,Yes,c.3353A>G,p.Tyr1118Cys,1118,Missense,chr7:93132619:T>C,Not observed — exact GRCh38 allele,
+Germline,INT063,Yes,c.3368T>C,p.Leu1123Pro,1123,Missense,chr7:93132604:A>G,Not observed — exact GRCh38 allele,
+Germline,INT015,Yes,c.3427A>G,p.Ser1143Gly,1143,Missense,chr7:93132545:T>C,Observed — exact GRCh38 allele,2.478462163796608e-06
+Germline,INT016,Yes,c.3442G>C,p.Asp1148His,1148,Missense,chr7:93132530:C>G,Not observed — exact GRCh38 allele,
+Germline,INT008,Yes,c.3538T>C,p.Trp1180Arg,1180,Missense,chr7:93132434:A>G,Not observed — exact GRCh38 allele,
+Germline,INT104,Yes,NM_152703.5:c.3584C>T,p.Ala1195Val,1195,Missense,chr7:93132388:G>A,Not observed — exact GRCh38 allele,
+Germline,INT001,Yes,c.3587G>C,p.Cys1196Ser,1196,Missense,chr7:93132385:C>G,Not observed — exact GRCh38 allele,
+Germline,INT055,Yes,c.3800G>T,p.Cys1267Phe,1267,Missense,chr7:93132172:C>A,Observed — exact GRCh38 allele,4.958706372681495e-06
+Germline,INT006,Yes,c.3842G>A,p.Arg1281Lys,1281,Missense,chr7:93132130:C>T,Not observed — exact GRCh38 allele,
+Germline,INT051,Yes,c.3843G>T,p.Arg1281Ser,1281,Missense,chr7:93132129:C>A,Not observed — exact GRCh38 allele,
+Germline,INT105,Yes,NM_152703.5:c.3841A>T,p.Arg1281Trp,1281,Missense,chr7:93132131:T>A,Not observed — exact GRCh38 allele,
+Germline,INT103,Yes,NM_152703.5:c.3880A>T,p.Lys1294Ter,1294,Truncating / stop-gain,chr7:93132092:T>A,Observed — exact GRCh38 allele,6.816877597385294e-06
+Germline,INT085,Yes,c.3892C>G,p.Arg1298Gly,1298,Missense,chr7:93132080:G>C,Observed — exact GRCh38 allele,0.0001096980514651197
+Germline,INT082,Yes,NM_152703.2:c.3965_3966del,p.Leu1323fs,1323,Frameshift,chr7:93132005:GTA>G,Not observed — exact GRCh38 allele,
+Germline,INT037,Yes,c.4046C>T,p.Pro1349Leu,1349,Missense,chr7:93131926:G>A,Not observed — exact GRCh38 allele,
+Germline,INT094,Yes,c.4231C>G,p.Arg1411Gly,1411,Missense,chr7:93131741:G>C,Not observed — exact GRCh38 allele,
+Germline,INT056,Yes,c.4303T>C,p.Trp1435Arg,1435,Missense,chr7:93131669:A>G,Observed — exact GRCh38 allele,1.858957199369442e-06
+Germline,INT021,Yes,c.4418G>A,p.Ser1473Asn,1473,Missense,chr7:93131554:C>T,Not observed — exact GRCh38 allele,
+Germline,INT039,Yes,c.4420A>C,p.Thr1474Pro,1474,Missense,chr7:93131552:T>G,Not observed — exact GRCh38 allele,
+Germline,INT095,No — non-primary comparator,c.4469A>C,p.Lys1490Thr,1490,Missense,chr7:93131503:T>G,Not observed — exact GRCh38 allele,
+Germline,INT009,Yes,c.4477A>G,p.Ile1493Val,1493,Missense,chr7:93131495:T>C,Not observed — exact GRCh38 allele,
+Germline,INT031,Yes,c.4519T>C,p.Trp1507Arg,1507,Missense,chr7:93131453:A>G,Not observed — exact GRCh38 allele,
+Germline,INT028,Yes,c.4525A>C,p.Ser1509Arg,1509,Missense,chr7:93131447:T>G,Not observed — exact GRCh38 allele,
+Germline,INT088,Yes,c.4528G>A,p.Gly1510Arg,1510,Missense,chr7:93131444:C>T,Not observed — exact GRCh38 allele,
+Germline,INT092,Yes,c.4529G>C,p.Gly1510Ala,1510,Missense,chr7:93131443:C>G,Not observed — exact GRCh38 allele,
+Germline,INT018,Yes,c.4534G>A,p.Val1512Met,1512,Missense,chr7:93131438:C>T,Not observed — exact GRCh38 allele,
+Germline,INT019,Yes,c.4535T>C,p.Val1512Ala,1512,Missense,chr7:93131437:A>G,Not observed — exact GRCh38 allele,
+Germline,INT096,No — non-primary comparator,c.4534G>T,p.Val1512Leu,1512,Missense,chr7:93131438:C>A,Not observed — exact GRCh38 allele,
+Germline,INT050,Yes,c.4537T>C,p.Trp1513Arg,1513,Missense,chr7:93131435:A>G,Not observed — exact GRCh38 allele,
+Germline,INT010,Yes,c.4561C>G,p.Leu1521Val,1521,Missense,chr7:93131411:G>C,Observed — exact GRCh38 allele,6.197230581597695e-07
+Germline,INT058,Yes,c.4596G>T,p.Lys1532Asn,1532,Missense,chr7:93131376:C>A,Not observed — exact GRCh38 allele,
+Germline,INT013,Yes,c.4648T>C,p.Ser1550Pro,1550,Missense,chr7:93131324:A>G,Observed — exact GRCh38 allele,6.198290759340205e-07
+Germline,INT025,Yes,NM_152703.5:c.4651G>C,p.Val1551Leu,1551,Missense,chr7:93131321:C>G,Not observed — exact GRCh38 allele,
+Germline,INT043,Yes,c.4736A>G,p.Tyr1579Cys,1579,Missense,chr7:93131236:T>C,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR044,Yes — exact somatic event,c.56T>A,p.Val19Glu,19,Missense,chr7:93135916:A>T,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR014,Yes — exact somatic event,c.208C>T,p.Arg70Cys,70,Missense,chr7:93135764:G>A,Observed — exact GRCh38 allele,6.01083685721226e-05
+Somatic,SOMVAR045,Yes — exact somatic event,c.683G>A,p.Cys228Tyr,228,Missense,chr7:93135289:C>T,Observed — exact GRCh38 allele,1.239054502290392e-06
+Somatic,SOMVAR046,Yes — exact somatic event,c.768dupT,p.Lys257Ter,257,Truncating / stop-gain,chr7:93135203:T>TA,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR047,Yes — exact somatic event,c.838G>A,p.Ala280Thr,280,Missense,chr7:93135134:C>T,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR048,Yes — exact somatic event,c.985_986insC,p.Lys329ThrfsTer3,329,Frameshift,chr7:93134986:T>TG,Observed — exact GRCh38 allele,4.338599153105445e-06
+Somatic,SOMVAR005,Yes — exact somatic event,c.1076G>A,p.Arg359Gln,359,Missense,chr7:93134896:C>T,Observed — exact GRCh38 allele,1.673034525236177e-05
+Somatic,SOMVAR006,Yes — exact somatic event,c.1082delT,p.Val361fs,361,Frameshift,chr7:93134889:TA>T,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR008,Yes — exact somatic event,c.1225delC,p.Leu409fs,409,Frameshift,chr7:93134746:AG>A,Observed — exact GRCh38 allele,6.198037205577738e-07
+Somatic,SOMVAR007,Yes — exact somatic event,c.1204_1208del,p.Leu410RfsTer8,410,Frameshift,chr7:93134763:TATGAG>T,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR009,Yes — exact somatic event,c.1360G>A,p.Gly454Arg,454,Missense,chr7:93134612:C>T,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR010,Yes — exact somatic event,c.1382_1385delAAAG,p.Glu461VfsTer43,461,Frameshift,chr7:93134586:ACTTT>A,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR011,Yes — exact somatic event,c.1684G>A,p.Glu562Lys,562,Missense,chr7:93134288:C>T,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR001,Yes — exact somatic event,c.1765C>T,p.Arg589Ter,589,Truncating / stop-gain,chr7:93134207:G>A,Observed — exact GRCh38 allele,8.060895726733155e-06
+Somatic,SOMVAR012,Yes — exact somatic event,c.1821_1822dupCA,p.Ser608TfsTer6,608,Frameshift,chr7:93134149:C>CTG,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR013,Yes — exact somatic event,c.2085G>C,p.Trp695Cys,695,Missense,chr7:93133887:C>G,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR015,Yes — exact somatic event,c.2302A>T,p.Lys768Ter,768,Truncating / stop-gain,chr7:93133670:T>A,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR016,Yes — exact somatic event,c.2306dupA,p.Asn769KfsTer5,769,Frameshift,chr7:93133665:G>GT,Observed — exact GRCh38 allele,6.19746870588177e-07
+Somatic,SOMVAR017,Yes — exact somatic event,c.2326dupG,p.Glu776fs,776,Frameshift,chr7:93133645:T>TC,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR018,Yes — exact somatic event,c.2338C>T,p.Gln780Ter,780,Truncating / stop-gain,chr7:93133634:G>A,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR019,Yes — exact somatic event,c.2385C>A,p.Tyr795Ter,795,Truncating / stop-gain,chr7:93133587:G>T,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR020,Yes — exact somatic event,c.2482C>T,p.Arg828Ter,828,Truncating / stop-gain,chr7:93133490:G>A,Observed — exact GRCh38 allele,8.067989568710102e-06
+Somatic,SOMVAR021,Yes — exact somatic event,c.2527C>T,p.Arg843Trp,843,Missense,chr7:93133445:G>A,Observed — exact GRCh38 allele,9.920302767640469e-06
+Somatic,SOMVAR022,Yes — exact somatic event,c.2566_2569del,p.Ala856Ter,856,Truncating / stop-gain,chr7:93133402:AGTGC>A,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR023,Yes — exact somatic event,c.2699A>G,p.Tyr900Cys,900,Missense,chr7:93133273:T>C,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR002,Yes — exact somatic event,c.2957G>T,p.Arg986Leu,986,Missense,chr7:93133015:C>A,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR024,Yes — exact somatic event,c.3023A>T,p.Lys1008Ile,1008,Missense,chr7:93132949:T>A,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR025,Yes — exact somatic event,c.3158C>T,p.Thr1053Ile,1053,Missense,chr7:93132814:G>A,Observed — exact GRCh38 allele,6.196715988394791e-07
+Somatic,SOMVAR026,Yes — exact somatic event,c.3178G>T,p.Glu1060Ter,1060,Truncating / stop-gain,chr7:93132794:C>A,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR027,Yes — exact somatic event,c.3229C>T,p.Arg1077Ter,1077,Truncating / stop-gain,chr7:93132743:G>A,Observed — exact GRCh38 allele,1.301400678959326e-05
+Somatic,SOMVAR028,Yes — exact somatic event,c.3230G>A,p.Arg1077Gln,1077,Missense,chr7:93132742:C>T,Observed — exact GRCh38 allele,2.478833857400125e-06
+Somatic,SOMVAR029,Yes — exact somatic event,c.3274T>G,p.Phe1092Val,1092,Missense,chr7:93132698:A>C,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR030,Yes — exact somatic event,c.3276C>G,p.Phe1092Leu,1092,Missense,chr7:93132696:G>C,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR031,Yes — exact somatic event,c.3283A>G,p.Lys1095Glu,1095,Missense,chr7:93132689:T>C,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR032,Yes — exact somatic event,c.3337G>A,p.Ala1113Thr,1113,Missense,chr7:93132635:C>T,Observed — exact GRCh38 allele,6.197361163616532e-07
+Somatic,SOMVAR033,Yes — exact somatic event,c.3364A>T,p.Thr1122Ser,1122,Missense,chr7:93132608:T>A,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR034,Yes — exact somatic event,c.3365_3370del,p.1122_1124del,1122,In-frame deletion,chr7:93132601:CCTAGTG>C,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR003,Yes — exact somatic event,c.3456_3458del,p.1152_1153del | p.L1153del,1152,In-frame deletion,chr7:93132513:TAGG>T,Observed — exact GRCh38 allele,6.196424167541396e-07
+Somatic,SOMVAR035,Yes — exact somatic event,c.3511G>A,p.Asp1171Asn,1171,Missense,chr7:93132461:C>T,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR036,Yes — exact somatic event,c.3540G>A,p.Trp1180Ter,1180,Truncating / stop-gain,chr7:93132432:C>T,Observed — exact GRCh38 allele,6.197660754924662e-07
+Somatic,SOMVAR037,Yes — exact somatic event,c.3547C>T,p.Gln1183Ter,1183,Truncating / stop-gain,chr7:93132425:G>A,Observed — exact GRCh38 allele,1.239401567347222e-05
+Somatic,SOMVAR004,Yes — exact somatic event,c.3562C>T,p.Arg1188Ter,1188,Truncating / stop-gain,chr7:93132410:G>A,Observed — exact GRCh38 allele,1.859134610021727e-06
+Somatic,SOMVAR038,Yes — exact somatic event,c.3650dup,p.His1218ProfsTer5,1218,Frameshift,chr7:93132321:G>GA,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR039,Yes — exact somatic event,c.3920T>C,p.Phe1307Ser,1307,Missense,chr7:93132052:A>G,Observed — exact GRCh38 allele,6.19686958935824e-07
+Somatic,SOMVAR040,Yes — exact somatic event,c.3951_3955delTAAAG,p.Ser1317RfsTer21,1317,Frameshift,chr7:93132016:TCTTTA>T,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR041,Yes — exact somatic event,c.4189T>C,p.Ser1379Pro,1379,Missense,chr7:93131783:A>G,Not observed — exact GRCh38 allele,
+Somatic,SOMVAR042,Yes — exact somatic event,c.4224dupA,p.Gln1409ThrfsTer49,1409,Frameshift,chr7:93131747:G>GT,Observed — exact GRCh38 allele,7.436335671234642e-06
+Somatic,SOMVAR043,Yes — exact somatic event,c.4571G>A,p.Arg1524His,1524,Missense,chr7:93131401:C>T,Observed — exact GRCh38 allele,4.214122018663603e-05
+Somatic,SOMVAR049,Yes — exact somatic event,c.3795A>T,p.Lys1265Asn,1265,Missense,chr7:93132177:T>A,Not assessed,
+Somatic,SOMVAR050,Yes — exact somatic event,c.2053_2055del,p.Glu685del,685,In-frame deletion,chr7:93133916:GTTC>G,Not assessed,

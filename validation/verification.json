@@ -1,0 +1,73 @@
+{
+  "status": "PASS",
+  "steps": [
+    "clinical",
+    "pooled_roc",
+    "roc_sensitivities",
+    "roc_posthoc",
+    "letter_roc_105",
+    "molecular",
+    "submission_figures",
+    "figure_1b_points",
+    "table_values",
+    "figure_values",
+    "reference_comparison"
+  ],
+  "tables_sha256": "18a8ab04777947f9805d744916f5b5bd0efbe2d944147597ddba236e1719af1c",
+  "track_checks": false,
+  "submission_figure_assets": [
+    "Figure_1.pdf",
+    "Figure_1.svg",
+    "Figure_1.tif",
+    "Figure_1B_Clinical_context_age_scatter.pdf",
+    "Figure_1B_Clinical_context_age_scatter.svg",
+    "Figure_2.pdf",
+    "Figure_2.svg",
+    "Figure_2.tif",
+    "Figure_S1.pdf",
+    "Figure_S1.svg",
+    "Figure_S2.pdf",
+    "Figure_S2.svg",
+    "Figure_S3.pdf",
+    "Figure_S3.svg",
+    "Figure_S4.pdf",
+    "Figure_S4.svg",
+    "Figure_S5.pdf",
+    "Figure_S5.svg",
+    "Figure_S6.pdf",
+    "Figure_S6.svg",
+    "Figure_S7.pdf",
+    "Figure_S7.svg",
+    "Figure_S8.pdf",
+    "Figure_S8.svg"
+  ],
+  "figure_1b_clinical_context": {
+    "n": 138,
+    "rho": -0.24734079006521767,
+    "p": 0.0034473005046897283
+  },
+  "table_checks": {
+    "clinical_numeric_cells": 110,
+    "sahoo_immune_positive_individuals": 9,
+    "revised_clinical": {
+      "affected_individuals": 169,
+      "age_clinical_context": 138,
+      "pooled_roc_individuals": 105,
+      "firth_adjusted_individuals": 105,
+      "held_out_primary": 105,
+      "revised_result_cells": 66
+    },
+    "acquired_inventory": {
+      "events": 57,
+      "individuals": 38,
+      "exact_events": 57,
+      "exact_alleles": 50,
+      "exact_singletons": 46,
+      "isolated_acquired_predictions": 50,
+      "combined_sequence_predictions": 54
+    },
+    "molecular_numeric_cells": 2539,
+    "age_endpoint_observations": 502,
+    "Arg589Ter_profiles": 5
+  }
+}

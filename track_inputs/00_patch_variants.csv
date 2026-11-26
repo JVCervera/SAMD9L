@@ -1,0 +1,3 @@
+Integrated_variant_ID,protein,cHGVS,chrom,pos,ref,alt,provenance,variant_id
+INT005,p.Thr233Asn,NM_152703.5:c.698C>A,chr7,93135274,G,T,User-supplied 2026-09-09,chr7:93135274:G>T
+INT025,p.Val1551Leu,NM_152703.5:c.4651G>C,chr7,93131321,C,G,User-supplied 2026-09-09,chr7:93131321:C>G

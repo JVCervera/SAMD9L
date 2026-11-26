@@ -1,0 +1,64 @@
+{
+  "alphagenome": "0.9.0",
+  "effect_reference": "paired_reference_per_variant_call_v2",
+  "eps": 1e-06,
+  "fixed_interval": {
+    "chromosome": "chr7",
+    "end": 93657907,
+    "start": 92609331
+  },
+  "locus_mask": [
+    93129323,
+    93137916
+  ],
+  "mask_half_width": {
+    "CHIP_HISTONE": 1000,
+    "CHIP_TF": 250,
+    "DNASE": 250
+  },
+  "min_abs_g_effect": 0.0001,
+  "ontology_terms": [
+    "CL:0000236",
+    "CL:0000623",
+    "CL:0000624",
+    "CL:0000625",
+    "CL:0000765",
+    "CL:0000775",
+    "CL:0000787",
+    "CL:0000788",
+    "CL:0000792",
+    "CL:0000823",
+    "CL:0000837",
+    "CL:0000862",
+    "CL:0000863",
+    "CL:0000895",
+    "CL:0000897",
+    "CL:0000900",
+    "CL:0000904",
+    "CL:0000905",
+    "CL:0000907",
+    "CL:0000909",
+    "CL:0000913",
+    "CL:0001044",
+    "CL:0001054",
+    "CL:0001059",
+    "CL:0010001",
+    "CL:2000001",
+    "CL:2000010",
+    "CL:2000041",
+    "CLO:0007045",
+    "EFO:0002067",
+    "EFO:0002784",
+    "EFO:0002793",
+    "EFO:0002798",
+    "EFO:0005724",
+    "UBERON:0002106",
+    "UBERON:0002370"
+  ],
+  "outputs": [
+    "DNASE",
+    "CHIP_HISTONE",
+    "CHIP_TF"
+  ],
+  "strong_quantile": 0.9
+}

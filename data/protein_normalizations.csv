@@ -1,0 +1,6 @@
+variant_id,normalized_cdna,normalized_protein,residue
+INT011,c.2849_2852dup,p.Ser952HisfsTer2,952
+INT082,c.3965_3966del,p.Leu1322SerfsTer17,1322
+INT046,c.2633del,p.Lys878SerfsTer13,878
+SOMVAR003,c.3456_3458del,p.Leu1153del,1153
+SOMVAR034,c.3365_3370del,p.Thr1122_Gly1124delinsSer,1122

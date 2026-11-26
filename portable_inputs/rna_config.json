@@ -1,0 +1,18 @@
+{
+  "input_sha256": "f3c712e221595545ccfd44e060af7edf0e4ca54685c52c5d03a5d0d3390711f4",
+  "interval": [
+    "chr7",
+    92609331,
+    93657907
+  ],
+  "alphagenome": "0.9.0",
+  "scorers": [
+    "RNA_SEQ",
+    "POLYADENYLATION",
+    "SPLICE_JUNCTIONS",
+    "SPLICE_SITE_USAGE"
+  ],
+  "q": 0.9,
+  "eps": 1e-06,
+  "analysis": "fresh RNA primary observed-minus-matched-control v1; pairwise tracks; no previous cache"
+}

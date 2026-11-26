@@ -1,0 +1,16 @@
+{
+  "AF-Q8IVG5-F1-predicted_aligned_error_v6.json": {
+    "sha256": "bfcfb7c2b0b45cecc647a211b65397e9b4ee6ef9b3e8ecd0d81b5cb9de3a7492",
+    "bytes": 6891447,
+    "source_url": "https://alphafold.ebi.ac.uk/files/AF-Q8IVG5-F1-predicted_aligned_error_v6.json",
+    "model": "AF-Q8IVG5-F1 v6",
+    "retrieved_utc_date": "2026-10-04"
+  },
+  "AF-Q8IVG5-F1-model_v6.pdb": {
+    "sha256": "7309870b4b85a912a071f93cef4e84c2ca9284731e6e7cfa6d87794c53d05a93",
+    "bytes": 1066040,
+    "source_url": "https://alphafold.ebi.ac.uk/files/AF-Q8IVG5-F1-model_v6.pdb",
+    "model": "AF-Q8IVG5-F1 v6",
+    "retrieved_utc_date": "2026-10-04"
+  }
+}

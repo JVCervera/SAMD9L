@@ -1,0 +1,28 @@
+{
+  "exclude_ages": {
+    "PUB_35310830_III_2": [
+      "first",
+      "clinical",
+      "mixed",
+      "hematologic"
+    ],
+    "PUB_35310830_III_5": [
+      "first",
+      "clinical",
+      "mixed",
+      "hematologic"
+    ],
+    "STJ_P094": [
+      "first",
+      "clinical",
+      "mixed",
+      "hematologic"
+    ]
+  },
+  "override_ages": {
+    "LIT_LIT006": {
+      "clinical": 23,
+      "mixed": 23
+    }
+  }
+}

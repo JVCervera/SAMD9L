@@ -1,0 +1,7 @@
+{
+  "analysis_config": "chromatin_analysis_config.json",
+  "permutations": 10000,
+  "random_seed": 20260910,
+  "assignments": 270,
+  "distinct_alternatives": 175
+}

@@ -1,0 +1,179 @@
+Patient_Master_ID,source_classification_support,competing_etiology_source_flag
+STJ_P001,Unreported or other source label,False
+STJ_P002,Unreported or other source label,False
+STJ_P003,Unreported or other source label,False
+STJ_P004,Unreported or other source label,False
+STJ_P005,Unreported or other source label,False
+STJ_P006,Unreported or other source label,False
+STJ_P007,Unreported or other source label,False
+STJ_P008,Unreported or other source label,False
+STJ_P009,Unreported or other source label,False
+STJ_P010,Unreported or other source label,False
+STJ_P011,Unreported or other source label,False
+STJ_P012,Unreported or other source label,False
+STJ_P013,Unreported or other source label,False
+STJ_P014,Unreported or other source label,False
+STJ_P015,Unreported or other source label,False
+STJ_P016,Unreported or other source label,False
+STJ_P017,Unreported or other source label,False
+STJ_P018,Unreported or other source label,False
+STJ_P019,Unreported or other source label,False
+STJ_P020,Unreported or other source label,False
+STJ_P021,Unreported or other source label,False
+STJ_P022,Unreported or other source label,False
+STJ_P023,Unreported or other source label,False
+STJ_P024,Unreported or other source label,False
+STJ_P025,Unreported or other source label,False
+STJ_P026,Unreported or other source label,False
+STJ_P027,Unreported or other source label,False
+STJ_P028,Unreported or other source label,False
+STJ_P029,Unreported or other source label,False
+STJ_P030,Unreported or other source label,False
+STJ_P031,Unreported or other source label,False
+STJ_P032,Unreported or other source label,False
+STJ_P033,Unreported or other source label,False
+STJ_P034,Unreported or other source label,False
+STJ_P035,Unreported or other source label,False
+STJ_P036,Source pathogenic/likely pathogenic label,False
+STJ_P037,Unreported or other source label,False
+STJ_P038,Source pathogenic/likely pathogenic label,False
+STJ_P039,Source pathogenic/likely pathogenic label,False
+STJ_P040,Unreported or other source label,False
+STJ_P041,Unreported or other source label,False
+STJ_P042,Unreported or other source label,False
+STJ_P043,Unreported or other source label,False
+STJ_P044,Unreported or other source label,False
+STJ_P045,Unreported or other source label,False
+STJ_P046,Unreported or other source label,False
+STJ_P047,Unreported or other source label,False
+STJ_P048,Unreported or other source label,False
+STJ_P049,Unreported or other source label,False
+STJ_P050,Unreported or other source label,False
+STJ_P053,Unreported or other source label,False
+STJ_P054,Unreported or other source label,False
+STJ_P055,Source pathogenic/likely pathogenic label,False
+STJ_P056,Unreported or other source label,False
+STJ_P057,Unreported or other source label,False
+STJ_P058,Unreported or other source label,False
+STJ_P059,Unreported or other source label,False
+STJ_P060,Unreported or other source label,False
+STJ_P061,Unreported or other source label,False
+STJ_P062,Unreported or other source label,False
+STJ_P063,Unreported or other source label,False
+STJ_P064,Unreported or other source label,False
+STJ_P065,Unreported or other source label,False
+STJ_P066,Unreported or other source label,False
+STJ_P067,Unreported or other source label,False
+STJ_P068,Unreported or other source label,False
+STJ_P069,Source pathogenic/likely pathogenic label,False
+STJ_P070,Unreported or other source label,False
+STJ_P071,Unreported or other source label,False
+STJ_P072,Unreported or other source label,False
+STJ_P073,Unreported or other source label,False
+STJ_P074,Unreported or other source label,False
+STJ_P075,Source VUS/uncertain without pathogenic label,False
+STJ_P076,Source pathogenic/likely pathogenic label,False
+STJ_P077,Source pathogenic/likely pathogenic label,False
+STJ_P078,Source pathogenic/likely pathogenic label,False
+STJ_P080,Source VUS/uncertain without pathogenic label,False
+STJ_P081,Source VUS/uncertain without pathogenic label,False
+STJ_P082,Source VUS/uncertain without pathogenic label,False
+STJ_P083,Source VUS/uncertain without pathogenic label,False
+STJ_P084,Source VUS/uncertain without pathogenic label,False
+STJ_P085,Source pathogenic/likely pathogenic label,False
+STJ_P086,Source pathogenic/likely pathogenic label,False
+STJ_P087,Source pathogenic/likely pathogenic label,False
+STJ_P088,Source VUS/uncertain without pathogenic label,False
+STJ_P089,Source VUS/uncertain without pathogenic label,False
+STJ_P090,Source VUS/uncertain without pathogenic label,False
+STJ_P091,Unreported or other source label,False
+STJ_P092,Source VUS/uncertain without pathogenic label,False
+STJ_P093,Unreported or other source label,False
+STJ_P094,Unreported or other source label,False
+STJ_P095,Unreported or other source label,False
+STJ_P096,Source pathogenic/likely pathogenic label,False
+STJ_P097,Unreported or other source label,False
+STJ_P098,Source VUS/uncertain without pathogenic label,False
+STJ_P099,Unreported or other source label,False
+STJ_P100,Unreported or other source label,False
+STJ_P101,Unreported or other source label,False
+STJ_P102,Unreported or other source label,False
+STJ_P103,Source VUS/uncertain without pathogenic label,False
+STJ_P104,Source VUS/uncertain without pathogenic label,False
+STJ_P105,Source pathogenic/likely pathogenic label,False
+STJ_P106,Source pathogenic/likely pathogenic label,False
+STJ_P107,Source pathogenic/likely pathogenic label,False
+STJ_P108,Source VUS/uncertain without pathogenic label,False
+STJ_P109,Unreported or other source label,False
+STJ_P110,Unreported or other source label,False
+STJ_P111,Unreported or other source label,False
+STJ_P112,Unreported or other source label,False
+STJ_P113,Unreported or other source label,False
+STJ_P114,Unreported or other source label,False
+STJ_P115,Unreported or other source label,False
+STJ_P116,Unreported or other source label,False
+STJ_P117,Unreported or other source label,False
+STJ_P118,Unreported or other source label,False
+STJ_P119,Unreported or other source label,False
+STJ_P120,Unreported or other source label,False
+STJ_P121,Unreported or other source label,False
+STJ_P122,Unreported or other source label,False
+STJ_P123,Unreported or other source label,False
+STJ_P124,Unreported or other source label,False
+STJ_P125,Unreported or other source label,False
+STJ_P126,Unreported or other source label,False
+STJ_P127,Unreported or other source label,False
+STJ_P128,Source VUS/uncertain without pathogenic label,False
+STJ_P129,Unreported or other source label,False
+NAG_Familial_W517R_index,Unreported or other source label,False
+NAG_W517R_FATHER,Unreported or other source label,False
+NAG_PD4780,Source pathogenic/likely pathogenic label,False
+NAG_PD4996,Source VUS/uncertain without pathogenic label,False
+NAG_UPN004,Source VUS/uncertain without pathogenic label,False
+NAG_UPN005,Unreported or other source label,False
+NAG_UPN022,Source pathogenic/likely pathogenic label,False
+NAG_UPN023,Source mixed/changed VUS and pathogenic labels,False
+NAG_UPN024,Source pathogenic/likely pathogenic label,False
+NAG_UPN025,Source pathogenic/likely pathogenic label,False
+NAG_UPN026,Source pathogenic/likely pathogenic label,False
+NAG_UPN028,Source VUS/uncertain without pathogenic label,False
+NAG_UPN029,Source mixed/changed VUS and pathogenic labels,False
+NAG_UPN_ADD4,Source VUS/uncertain without pathogenic label,False
+NAG_UPN_ADD5,Source VUS/uncertain without pathogenic label,False
+NAG_UPN_ADD6,Source pathogenic/likely pathogenic label,False
+MOL_PV1338,Source VUS/uncertain without pathogenic label,False
+MOL_PV1346,Source VUS/uncertain without pathogenic label,False
+MOL_PV2666,Source VUS/uncertain without pathogenic label,False
+MOL_PV2671,Source VUS/uncertain without pathogenic label,False
+MOL_PV30047,Source VUS/uncertain without pathogenic label,False
+VUELTA_K1294,Source VUS/uncertain without pathogenic label,False
+VUELTA_N697Y,Source mixed/changed VUS and pathogenic labels,True
+PUB_38594844_Family_1_father,Source VUS/uncertain without pathogenic label,False
+PUB_38594844_Family_1_proband,Source VUS/uncertain without pathogenic label,False
+PUB_33710394_FIN5_3,Source pathogenic/likely pathogenic label,False
+PUB_35310830_III_2,Unreported or other source label,False
+PUB_35310830_III_5,Unreported or other source label,False
+PUB_35310830_IV_6,Unreported or other source label,False
+PUB_37584291_P4_B063,Unreported or other source label,False
+PUB_37584291_P5_KM,Unreported or other source label,False
+PUB_37584291_P6_CZ132,Unreported or other source label,False
+PUB_37584291_P7_A146,Unreported or other source label,False
+PUB_36880537_proband,Unreported or other source label,False
+PUB_27259050_UW_AP_II_3,Unreported or other source label,False
+PUB_35310830_V_3,Unreported or other source label,False
+LIT_38597819_ELDER_BROTHER,Unreported or other source label,False
+LIT_38597819_FATHER,Unreported or other source label,False
+LIT_38231353_FATHER,Unreported or other source label,False
+LIT_36880537_MOTHER,Unreported or other source label,False
+LIT_42154215_P7_MOTHER,Unreported or other source label,False
+LIT_LIT009,Unreported or other source label,False
+LIT_LIT010,Source pathogenic/likely pathogenic label,False
+LIT_LIT011,Source VUS/uncertain without pathogenic label,False
+LIT_42154215_P7,Source VUS/uncertain without pathogenic label,False
+LIT_LIT002,Source VUS/uncertain without pathogenic label,False
+LIT_LIT006,Source VUS/uncertain without pathogenic label,False
+LIT_LIT007,Unreported or other source label,False
+LIT_LIT008,Source mixed/changed VUS and pathogenic labels,False
+LIT_36880537_SISTER,Unreported or other source label,False
+LIT_38597819_SISTER,Unreported or other source label,False
+LIT_41137672_SAAD_TMA,Unreported or other source label,False

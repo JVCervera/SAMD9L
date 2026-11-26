@@ -1,0 +1,106 @@
+patient_id,marrow_documented,marrow_loss,locator,direct_source
+STJ_P001,True,0.0,"Chen et al., p. 1153, Analysis of SAMD9L in the Li-AP Family, and Figs. 1B/D.",https://www.stjude.org/research/labs/wlodarski-lab/database/samd9l.html | https://pubmed.ncbi.nlm.nih.gov/27259050/
+STJ_P002,True,1.0,"Chen et al., Fig. 1B/D and p. 1153; Li et al. 1981, abstract and index case.",https://www.stjude.org/research/labs/wlodarski-lab/database/samd9l.html
+STJ_P005,False,,"Chen et al., AJHG 2016, p. 1151; results, clinical history of family UW-AP.",https://doi.org/10.1016/j.ajhg.2016.04.009
+STJ_P018,True,1.0,"Schwartz 2017, Supplementary Data 1, G18; Data 7, E:F row 41; Data 11, E:F row 10",https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-017-01590-5/MediaObjects/41467_2017_1590_MOESM4_ESM.xlsx
+STJ_P019,True,0.0,"Schwartz 2017, Supplementary Data 1, G13; Data 7, E:F row 32; Data 11, E:F row 8",https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-017-01590-5/MediaObjects/41467_2017_1590_MOESM4_ESM.xlsx
+STJ_P020,True,1.0,"Schwartz 2017, Supplementary Data 1, G2; Data 7, E:F row 12; Data 11, E:F row 5",https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-017-01590-5/MediaObjects/41467_2017_1590_MOESM4_ESM.xlsx
+STJ_P021,True,1.0,"Schwartz 2017, Supplementary Data 1, G11; Data 7, E:F row 31; Data 11, E:F row 7",https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-017-01590-5/MediaObjects/41467_2017_1590_MOESM4_ESM.xlsx
+STJ_P022,True,1.0,"Tesi et al., Blood 2017, table 1 and Fig. 3A/C, F1:I-3.",https://pubmed.ncbi.nlm.nih.gov/28202457/
+STJ_P024,True,1.0,"Tesi et al., Blood 2017, table 1 and Fig. 3B/D, F2:II-4.",https://pubmed.ncbi.nlm.nih.gov/28202457/
+STJ_P025,True,1.0,"Tesi et al., Blood 2017, table 1 and section Clinical history, F1:III-1.",https://www.stjude.org/research/labs/wlodarski-lab/database/samd9l.html
+STJ_P026,True,1.0,"Bluteau et al., Blood 2018, table 4 and Fig. 5D, indicated UB identifier row.",https://doi.org/10.1182/blood-2017-09-806489
+STJ_P027,True,1.0,"Bluteau et al., Blood 2018, table 4 and Fig. 5D, indicated UB identifier row.",https://doi.org/10.1182/blood-2017-09-806489
+STJ_P028,True,0.0,"Bluteau et al., Blood 2018, table 4 and Fig. 5D, indicated UB identifier row.",https://www.stjude.org/research/labs/wlodarski-lab/database/samd9l.html
+STJ_P029,True,1.0,"Bluteau et al., Blood 2018, table 4 and Fig. 5D, indicated UB identifier row.",https://doi.org/10.1182/blood-2017-09-806489
+STJ_P030,True,0.0,"Bluteau et al., Blood 2018, table 4 and Fig. 5D, indicated UB identifier row.",https://www.stjude.org/research/labs/wlodarski-lab/database/samd9l.html
+STJ_P032,True,1.0,"Bluteau et al., Blood 2018, table 4 and Fig. 5D, indicated UB identifier row.",https://doi.org/10.1182/blood-2017-09-806489
+STJ_P033,True,0.0,"Bluteau et al., Blood 2018, table 4 and Fig. 5D, indicated UB identifier row.",https://www.stjude.org/research/labs/wlodarski-lab/database/samd9l.html
+STJ_P034,True,0.0,"Bluteau et al., table S10 «Clinical features and disease history of Group 1 patients», row UB260, page 40 of PDF; for the allele, table 4 and table S13.",https://ars.els-cdn.com/content/image/1-s2.0-S0006497120324654-mmc1.pdf
+STJ_P036,True,1.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row D637. Pastor, table 1, P5/D637.",https://doi.org/10.1038/s41591-021-01511-6 | https://doi.org/10.3324/haematol.2017.180778
+STJ_P037,True,1.0,"Tables 1 and 2, P3 / US1",https://haematologica.org/article/download/8380/57295
+STJ_P038,True,1.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row D154. Pastor, table 1, P2/D154.",https://doi.org/10.1038/s41591-021-01511-6 | https://doi.org/10.3324/haematol.2017.180778
+STJ_P039,True,1.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row SE007. Pastor, table 1, P7/SC054.",https://doi.org/10.1038/s41591-021-01511-6 | https://doi.org/10.3324/haematol.2017.180778
+STJ_P040,True,1.0,"Tables 1 and 2, P6 / D637f",https://haematologica.org/article/download/8380/57295
+STJ_P041,True,1.0,"Wong 2018, table S1, p. 21 of PDF; Fig. 2A and results, family 1",https://df6sxcketz7bb.cloudfront.net/manuscripts/121000/121086/jci.insight.121086.sd.pdf
+STJ_P042,True,1.0,"Wong 2018, table S1, p. 21 of PDF; Fig. 2A and results, family 1",https://df6sxcketz7bb.cloudfront.net/manuscripts/121000/121086/jci.insight.121086.sd.pdf
+STJ_P043,True,0.0,"Wong 2018, table S1, p. 22 of PDF, row 5C; note B on p. 23; main text p. 5",https://www.stjude.org/research/labs/wlodarski-lab/database/samd9l.html
+STJ_P044,True,0.0,"Wong 2018, table S1, p. 23 of PDF, row 5F; note B on p. 23; main text p. 5",https://www.stjude.org/research/labs/wlodarski-lab/database/samd9l.html
+STJ_P045,True,0.0,"Wong 2018, table S1, p. 22 of PDF, row 5D; note B on p. 23; main text p. 5",https://www.stjude.org/research/labs/wlodarski-lab/database/samd9l.html
+STJ_P046,True,0.0,"Wong 2018, table S1, p. 22 of PDF, row 5B; note B on p. 23; main text p. 5",https://www.stjude.org/research/labs/wlodarski-lab/database/samd9l.html
+STJ_P047,True,1.0,"Wong 2018, table S1, p. 23 of PDF; main text, family 5, p. 5",https://df6sxcketz7bb.cloudfront.net/manuscripts/121000/121086/jci.insight.121086.sd.pdf
+STJ_P048,True,1.0,"Wong 2018, table S1, pp. 22–23 of PDF; main text, family 5, p. 5",https://df6sxcketz7bb.cloudfront.net/manuscripts/121000/121086/jci.insight.121086.sd.pdf
+STJ_P049,True,1.0,"Wong 2018, table S1, p. 23 of PDF; Fig. S4C; main text, p. 5",https://df6sxcketz7bb.cloudfront.net/manuscripts/121000/121086/jci.insight.121086.sd.pdf
+STJ_P050,True,1.0,"Wong 2018, table S1, p. 22 of PDF; main text, family 4, p. 4",https://df6sxcketz7bb.cloudfront.net/manuscripts/121000/121086/jci.insight.121086.sd.pdf
+STJ_P053,True,1.0,"Bluteau et al., Blood 2018, table 4 and Fig. 5D, indicated UB identifier row.",https://doi.org/10.1182/blood-2017-09-806489
+STJ_P054,True,1.0,"Tables 1 and 2, P4 / US2",https://haematologica.org/article/download/8380/57295
+STJ_P055,True,1.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row D084. Pastor, table 1, P1/D084.",https://doi.org/10.1038/s41591-021-01511-6 | https://doi.org/10.3324/haematol.2017.180778
+STJ_P056,True,1.0,"Wong 2018, table S1, p. 21 of PDF; main text, family 3; Fig. S8",https://df6sxcketz7bb.cloudfront.net/manuscripts/121000/121086/jci.insight.121086.sd.pdf
+STJ_P057,True,1.0,"Wong 2018, table S1, p. 22 of PDF; main text, family 4, p. 4",https://df6sxcketz7bb.cloudfront.net/manuscripts/121000/121086/jci.insight.121086.sd.pdf
+STJ_P058,True,1.0,"Wong 2018, table S1, p. 22 of PDF; main text pp. 4–5 and Fig. 4C",https://df6sxcketz7bb.cloudfront.net/manuscripts/121000/121086/jci.insight.121086.sd.pdf
+STJ_P059,False,,"Cheah, table 1, p. e318, row IV-4; Fig. 1A and Fig. S1B for segregation.",https://www.stjude.org/research/labs/wlodarski-lab/database/samd9l.html
+STJ_P064,False,,"Thunström and Axelsson 2019, clinical case description, page 2. PMID 31053103.",https://pubmed.ncbi.nlm.nih.gov/31053103/
+STJ_P065,True,1.0,"Ahmed 2019, table 1, patient 10, rows Gene mutation and Chromosome 7; clinical case in ASH 2018, Blood 132(Suppl 1):3863.",https://doi.org/10.1016/j.bbmt.2019.07.007 | https://doi.org/10.1007/s10875-018-0485-z | https://doi.org/10.1182/blood-2018-99-120250
+STJ_P074,False,,"Yoshida et al., Tables I–II, case 25. The narrative says 26 in a series of 25 patients.",https://doi.org/10.1111/bjh.17006
+STJ_P075,True,0.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row A102.",https://doi.org/10.1038/s41591-021-01511-6
+STJ_P076,True,0.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row D339.",https://doi.org/10.1038/s41591-021-01511-6
+STJ_P077,True,0.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row D851.",https://doi.org/10.1038/s41591-021-01511-6
+STJ_P078,True,1.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row B052.",https://doi.org/10.1038/s41591-021-01511-6
+STJ_P080,True,0.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row D570.",https://doi.org/10.1038/s41591-021-01511-6
+STJ_P081,True,0.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row D1095.",https://doi.org/10.1038/s41591-021-01511-6
+STJ_P082,True,0.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row D1160.",https://doi.org/10.1038/s41591-021-01511-6
+STJ_P083,True,0.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row D1267.",https://doi.org/10.1038/s41591-021-01511-6
+STJ_P084,True,1.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row D1300. Erlacher, appendix, case P2/D1300.",https://doi.org/10.1038/s41591-021-01511-6 | https://haematologica.org/article/download/haematol.2023.283591/76526
+STJ_P085,True,1.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row CZ035.",https://doi.org/10.1038/s41591-021-01511-6
+STJ_P086,True,1.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row D743.",https://doi.org/10.1038/s41591-021-01511-6
+STJ_P087,True,1.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row CZ060.",https://doi.org/10.1038/s41591-021-01511-6
+STJ_P088,True,1.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row D1297. Erlacher, appendix, case P1/D1297.",https://doi.org/10.1038/s41591-021-01511-6 | https://haematologica.org/article/download/haematol.2023.283591/76526
+STJ_P089,True,1.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row GR012. Erlacher, appendix, case P3/GR012.",https://doi.org/10.1038/s41591-021-01511-6 | https://haematologica.org/article/download/haematol.2023.283591/76526
+STJ_P090,True,0.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row D1215.",https://doi.org/10.1038/s41591-021-01511-6
+STJ_P091,True,0.0,"Supplementary Appendix, case narrative Patient ID #47.",https://haematologica.org/article/download/9643/72932
+STJ_P092,True,0.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row D393.",https://doi.org/10.1038/s41591-021-01511-6
+STJ_P093,False,,"Noy-Lotan et al., Supplementary Tables I–II, patient 25.",https://doi.org/10.1111/bjh.17285
+STJ_P094,False,,"Noy-Lotan et al., Supplementary Tables I–II, patient 3.",https://doi.org/10.1111/bjh.17285
+STJ_P096,True,1.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row D1285.",https://doi.org/10.1038/s41591-021-01511-6
+STJ_P097,False,,"Proband report, array-CGH paragraph after Fig. 1, and Supplementary Fig. e-1.",https://pmc.ncbi.nlm.nih.gov/articles/PMC8054956/
+STJ_P098,True,0.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row CH026.",https://doi.org/10.1038/s41591-021-01511-6
+STJ_P099,False,,"Case description, marrow-assessment paragraph alongside sequencing findings, p. e628.",https://doi.org/10.1212/NXG.0000000000000628
+STJ_P102,False,,"Russell, Clinical Cases, first case and table 1; supplement, Fig. S1, p. 2.",https://www.stjude.org/research/labs/wlodarski-lab/database/samd9l.html | https://pubmed.ncbi.nlm.nih.gov/34417303/
+STJ_P103,True,1.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row D927.",https://doi.org/10.1038/s41591-021-01511-6
+STJ_P104,True,0.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row D423.",https://doi.org/10.1038/s41591-021-01511-6
+STJ_P105,True,1.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row D1248.",https://doi.org/10.1038/s41591-021-01511-6
+STJ_P106,True,1.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row H005.",https://doi.org/10.1038/s41591-021-01511-6
+STJ_P107,True,1.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row D1127.",https://doi.org/10.1038/s41591-021-01511-6
+STJ_P108,True,1.0,"Sahoo, Supplementary Table 3, pp. 4–5, and Supplementary Table 6, pp. 17–18, row D171.",https://doi.org/10.1038/s41591-021-01511-6
+STJ_P112,False,,"Wildes et al., AJCP 158, suppl. 1, S100, Methods and Case Report; also PMID 36519557.",https://doi.org/10.1093/ajcp/aqac126.211
+STJ_P120,True,0.0,"Chen et al., PMID 36499545, Results, pretransplant cohort and WES, case 9; prior report PMID 36012751.",https://www.stjude.org/research/labs/wlodarski-lab/database/samd9l.html
+STJ_P121,True,0.0,"Chen et al., PMID 36499545, Results, case 2 karyotype and follow-up, and Fig. 1.",https://www.stjude.org/research/labs/wlodarski-lab/database/samd9l.html | https://pubmed.ncbi.nlm.nih.gov/36499545/
+STJ_P123,False,,"Papa et al., PMID 34894360, case description before Fig. 1 and sequencing paragraph.",https://onlinelibrary.wiley.com/doi/10.1111/pai.13711
+STJ_P124,True,0.0,"ASPHO 2020, poster 323, Alicea et al., Results; full article PMID 36054901.",https://www.stjude.org/research/labs/wlodarski-lab/database/samd9l.html
+STJ_P126,True,1.0,"Pancytopenia in children caused by SAMD9/9L mutation, Chin J Hematol 2023, tables 1 and 2, case 1, p. 341; PMID 37357006.",https://pmc.ncbi.nlm.nih.gov/articles/PMC10282867/
+STJ_P128,False,,"Wimalachandra et al., Hematology 2024, clinical presentation, first paragraph and Fig. 1; PMID 38597819.",https://www.tandfonline.com/doi/abs/10.1080/16078454.2024.2337160
+STJ_P129,True,1.0,"Lovatel et al., PMID 40725152, Tables 1–2, patient 1; Results and Discussion, transient clone.",https://www.stjude.org/research/labs/wlodarski-lab/database/samd9l.html
+NAG_Familial_W517R_index,True,0.0,"Nagata, Supplementarand Fig. 1A/C, p. 6; también Supplementary Table 1 para la variante familyr.",https://doi.org/10.1182/blood-2017-05-787390
+NAG_UPN004,False,,"Nagata, Supplementary Tables 4 (p. 30) and 10 (p. 36), row UPN004.",https://doi.org/10.1182/blood-2017-05-787390
+NAG_UPN005,True,1.0,"Nagata, Supplementary Tables 4 (p. 30) and 10 (p. 36), row UPN005.",https://doi.org/10.1182/blood-2017-05-787390
+NAG_UPN022,False,,"Nagata, Supplementary Tables 4 (p. 30) and 10 (p. 36), row UPN022.",https://doi.org/10.1182/blood-2017-05-787390
+NAG_UPN023,False,,"Nagata, Supplementary Tables 4 (p. 30) and 10 (p. 36), row UPN023.",https://doi.org/10.1182/blood-2017-05-787390
+NAG_UPN024,False,,"Nagata, Supplementary Tables 4 (p. 30) and 10 (p. 36), row UPN024.",https://doi.org/10.1182/blood-2017-05-787390
+NAG_UPN025,False,,"Nagata, Supplementary Tables 4 (p. 30) and 10 (p. 36), row UPN025.",https://doi.org/10.1182/blood-2017-05-787390
+NAG_UPN026,False,,"Nagata, Supplementary Tables 4 (p. 30) and 10 (p. 36), row UPN026.",https://doi.org/10.1182/blood-2017-05-787390
+NAG_UPN028,False,,"Nagata, Supplementary Tables 4 (p. 30) and 10 (p. 36), row UPN028.",https://doi.org/10.1182/blood-2017-05-787390
+NAG_UPN_ADD4,False,,"Nagata, Supplementary Tables 4 (p. 30) and 10 (p. 36), row UPN_ADD4.",https://doi.org/10.1182/blood-2017-05-787390
+NAG_UPN_ADD5,False,,"Nagata, Supplementary Tables 4 (p. 30) and 10 (p. 36), row UPN_ADD5.",https://doi.org/10.1182/blood-2017-05-787390
+NAG_UPN_ADD6,False,,"Nagata, Supplementary Tables 4 (p. 30) and 10 (p. 36), row UPN_ADD6.",https://doi.org/10.1182/blood-2017-05-787390
+MOL_PV1338,False,,"Molteni et al., Blood 2023, table 3 (p. 649) and Supplementary Table 4 (p. 27), both at row PV1338.",https://pubmed.ncbi.nlm.nih.gov/37216690/
+VUELTA_N697Y,False,,"Vuelta et al., final published supplement, Cytogenetics and molecular profiling of patients, paragraph 2.",https://pmc-oa-opendata.s3.amazonaws.com/PMC13674140.1/BJH-209-1538-s001.docx
+PUB_38594844_Family_1_proband,False,,"Zingariello et al., table 1, family 1, proband",https://doi.org/10.1002/mdc3.14038
+PUB_33710394_FIN5_3,False,,"Table 1 and Methods; clinical appendix, Known gene–phenotypic expansion, FIN5-3, Fig. S1C.",https://pubmed.ncbi.nlm.nih.gov/33710394/ | https://pmc.ncbi.nlm.nih.gov/articles/PMC8197721/
+PUB_37584291_P4_B063,True,1.0,"Erlacher et al., tables 1 and 2, Fig. 1 and description of P4/B063",https://haematologica.org/article/download/haematol.2023.283591/76526
+PUB_37584291_P5_KM,True,1.0,"Erlacher et al., tables 1 and 2 and Fig. 1, P5/KM",https://haematologica.org/article/download/haematol.2023.283591/76526
+PUB_37584291_P6_CZ132,True,1.0,"Erlacher et al., tables 1 and 2 and Fig. 1, P6/CZ132",https://haematologica.org/article/download/haematol.2023.283591/76526
+PUB_37584291_P7_A146,True,1.0,"Erlacher et al., tables 1 and 2 and Fig. 1, P7/A146",https://haematologica.org/article/download/haematol.2023.283591/76526
+PUB_36880537_proband,True,0.0,"PMID 36880537, Case Report 2.1, initial marrow, karyotype and segregation.",https://pubmed.ncbi.nlm.nih.gov/36880537/ | https://pmc.ncbi.nlm.nih.gov/articles/PMC10075289/
+LIT_LIT002,True,1.0,"Iyengar et al., PMID 38231353, Fig. 1D/E/G/H; for monosomy, IEI 2022 abstract 26, pp. 30–31, Case Report.",https://link.springer.com/article/10.1007/s10875-023-01650-0/figures/1 | https://ispid.org.in/iei2022/downloads/e%20-Abstract%20Book.pdf
+LIT_LIT007,False,,"Ma et al., poster ASPHO 349, Results, pp. 151–152 of PDF; Miller et al., Pediatric Dermatology, 2023, PMID 37571861.",https://aspho.org/uploads/PBC_v70_iS3_Rev.pdf | https://doi.org/10.1111/pde.15411
+LIT_LIT008,True,0.0,"Dellal et al., BJH 2026, p. 77, proband description following Fig. 1.",https://doi.org/10.1111/bjh.70563
