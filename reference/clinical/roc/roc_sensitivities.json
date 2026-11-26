@@ -1,0 +1,66 @@
+{
+  "strict_normal": {
+    "n": 95,
+    "loss": 57,
+    "comparison": 38,
+    "auc": 0.6909048938134811,
+    "p": 0.0014316979990921528,
+    "median_loss": 986.0,
+    "median_comparison": 891.0
+  },
+  "affected_only": {
+    "n": 104,
+    "loss": 56,
+    "comparison": 48,
+    "auc": 0.7103794642857143,
+    "p": 0.00017097318660741397,
+    "median_loss": 986.0,
+    "median_comparison": 882.5
+  },
+  "without_P064": {
+    "n": 104,
+    "loss": 57,
+    "comparison": 47,
+    "auc": 0.7142590518850317,
+    "p": 0.00013092756644101204,
+    "median_loss": 986.0,
+    "median_comparison": 880.0
+  },
+  "marrow_documented": {
+    "n": 78,
+    "loss": 50,
+    "comparison": 28,
+    "auc": 0.6903571428571429,
+    "p": 0.004840789247903516,
+    "median_loss": 1075.0,
+    "median_comparison": 906.5
+  },
+  "single_diagnostic_sahoo": {
+    "n": 28,
+    "loss": 17,
+    "comparison": 11,
+    "auc": 0.9411764705882353,
+    "p": 1.3132049745322057e-05,
+    "median_loss": 986.0,
+    "median_comparison": 690.0
+  },
+  "exclude_986": {
+    "n": 88,
+    "loss": 42,
+    "odds_ratio": 1.2202416519342663,
+    "interval": [
+      1.0683684120880095,
+      1.4959637673699928
+    ],
+    "valid_draws": 3000
+  },
+  "exclude_partial": {
+    "n": 97,
+    "loss": 49,
+    "odds_ratio": 1.2011929264463148,
+    "interval": [
+      1.0321854609189385,
+      1.4172990352604802
+    ]
+  }
+}

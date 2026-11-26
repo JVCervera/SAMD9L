@@ -1,0 +1,324 @@
+{
+  "cohort": 178,
+  "affected": {
+    "Yes": 169,
+    "No": 9
+  },
+  "link_count": 183,
+  "multiple": 5,
+  "phenotypes": {
+    "Mixed: Hematologic + Neurologic": 26,
+    "Neurologic predominant": 21,
+    "Hematologic predominant": 80,
+    "Mixed: Hematologic + Neurologic + Immune/inflammatory": 19,
+    "Mixed: Hematologic + Immune/inflammatory": 21,
+    "Unaffected/limited phenotype": 7,
+    "Immune/inflammatory predominant": 1,
+    "Mixed: Neurologic + Immune/inflammatory": 1,
+    "Uncertain/insufficient": 2
+  },
+  "diagnoses": {
+    "Cytopenia-only / transient": 37,
+    "AML": 7,
+    "BMF/AA": 21,
+    "Unknown": 3,
+    "No hematologic disease reported": 26,
+    "MDS/RCC": 66,
+    "Other/uncertain": 14,
+    "MPN/PMF": 2,
+    "MDS/AML progression": 1,
+    "MDS/MPN": 1
+  },
+  "germline": {
+    "unique": 88,
+    "types": {
+      "Missense": 75,
+      "Frameshift": 11,
+      "Truncating / stop-gain": 2
+    },
+    "carriers_per_allele": {
+      "3": 3,
+      "12": 1,
+      "19": 1,
+      "9": 1,
+      "11": 1,
+      "1": 54,
+      "2": 22,
+      "7": 1,
+      "5": 2,
+      "4": 2
+    }
+  },
+  "gnomad": {
+    "observed": 33,
+    "unobserved": 55,
+    "median_observed": 705.0,
+    "median_unobserved": 1034.0,
+    "p": 8.179546455229091e-05
+  },
+  "acquired": {
+    "events": 57,
+    "individuals": 38,
+    "exact_events": 57,
+    "exact_alleles": 50,
+    "observations_per_exact_allele": {
+      "1": 46,
+      "2": 3,
+      "5": 1
+    },
+    "exact_types": {
+      "Missense": 24,
+      "Truncating / stop-gain": 12,
+      "Frameshift": 11,
+      "In-frame deletion": 3
+    },
+    "phase_status": {
+      "confirmed_cis": 11,
+      "reported_cis": 11,
+      "unknown": 29,
+      "confirmed_cis_and_trans": 1,
+      "confirmed_trans": 1,
+      "trans_excluded": 1,
+      "inferred_cis": 2,
+      "dual_germline_excluded": 1
+    },
+    "Arg589Ter": [
+      [
+        "SGR017",
+        "STJ_P049",
+        "R1281K",
+        "confirmed_cis"
+      ],
+      [
+        "SGR035",
+        "STJ_P086",
+        "R986C",
+        "inferred_cis"
+      ],
+      [
+        "SGR038",
+        "STJ_P094",
+        "T936I",
+        "unknown"
+      ],
+      [
+        "SGR039",
+        "STJ_P096",
+        "K770E",
+        "reported_cis"
+      ],
+      [
+        "SGR047",
+        "STJ_P089",
+        "T1474P",
+        "reported_cis"
+      ]
+    ]
+  },
+  "clonal": {
+    "chr7": 60,
+    "upd": 26,
+    "intra": 38,
+    "any_recorded": 82,
+    "multiple": 36,
+    "all_three": 6
+  },
+  "age": {
+    "clinical": {
+      "n": 138,
+      "rho": -0.24734079006521767,
+      "p": 0.0034473005046897283,
+      "n_ped": 105,
+      "n_adult": 33,
+      "med_ped": 986.0,
+      "med_adult": 908.0,
+      "mw": 0.013742856812448459,
+      "trunc_ped": 13,
+      "trunc_adult": 5,
+      "fisher": 0.767564280633768,
+      "unique_ped": 53,
+      "unique_adult": 21
+    },
+    "first": {
+      "n": 111,
+      "rho": -0.2635626470564509,
+      "p": 0.005190469247176362,
+      "n_ped": 95,
+      "n_adult": 16,
+      "med_ped": 986.0,
+      "med_adult": 907.0,
+      "mw": 0.03412510704602811,
+      "trunc_ped": 9,
+      "trunc_adult": 0,
+      "fisher": 0.35270101311286284,
+      "unique_ped": 47,
+      "unique_adult": 10
+    },
+    "hematologic": {
+      "n": 101,
+      "rho": -0.20082258920825158,
+      "p": 0.04404267608746205,
+      "n_ped": 88,
+      "n_adult": 13,
+      "med_ped": 986.0,
+      "med_adult": 986.0,
+      "mw": 0.5277233941903863,
+      "trunc_ped": 6,
+      "trunc_adult": 2,
+      "fisher": 0.2735843523924947,
+      "unique_ped": 48,
+      "unique_adult": 10
+    },
+    "mixed": {
+      "n": 152,
+      "rho": -0.32174048924396437,
+      "p": 5.300927092205941e-05,
+      "n_ped": 106,
+      "n_adult": 46,
+      "med_ped": 986.0,
+      "med_adult": 856.0,
+      "mw": 0.00010804555484305364,
+      "trunc_ped": 13,
+      "trunc_adult": 6,
+      "fisher": 1.0,
+      "unique_ped": 53,
+      "unique_adult": 34
+    }
+  },
+  "source": {
+    "Other": {
+      "n": 23,
+      "rho": -0.4642422208947587,
+      "p": 0.025641971577318592
+    },
+    "St Jude": {
+      "n": 115,
+      "rho": -0.15321733993506426,
+      "p": 0.1020927810377108
+    }
+  },
+  "family": [
+    {
+      "label": "All",
+      "n": 138,
+      "rho": -0.24734079006521767,
+      "p": 0.0034473005046897283
+    },
+    {
+      "label": "Exclude source VUS-only",
+      "n": 113,
+      "rho": -0.11681678792419312,
+      "p": 0.21787581378940787
+    },
+    {
+      "label": "Exclude competing therapy",
+      "n": 137,
+      "rho": -0.23596727403355466,
+      "p": 0.005504369905710285
+    },
+    {
+      "label": "Source pathogenic label",
+      "n": 17,
+      "rho": -0.589483634084033,
+      "p": 0.012762662986240958
+    },
+    {
+      "label": "Known family",
+      "n": 87,
+      "rho": -0.1208910776923764,
+      "p": 0.2646858099415209
+    },
+    {
+      "label": "Unresolved family",
+      "n": 51,
+      "rho": -0.3915586714985616,
+      "p": 0.004491843718916916
+    },
+    {
+      "label": "Family medians",
+      "n": 45,
+      "rho": 0.08325655167904314,
+      "p": 0.5866265363698153,
+      "ci_low": -0.20848983381516065,
+      "ci_high": 0.36197902457639186,
+      "valid_replicates": 10000
+    },
+    {
+      "label": "Protein medians",
+      "n": 66,
+      "rho": -0.31320924252707727,
+      "p": 0.010446484110595178
+    }
+  ],
+  "inflammation_individuals": {
+    "n": 126,
+    "positive_trunc": 12,
+    "all_trunc": 14,
+    "positive_missense": 0,
+    "all_missense": 112,
+    "p": 4.673840576247609e-15
+  },
+  "inflammation_alleles": {
+    "n": 56,
+    "positive_trunc": 5,
+    "all_trunc": 7,
+    "positive_missense": 0,
+    "all_missense": 49,
+    "p": 5.4976470070809675e-06
+  },
+  "inflammation_broad": {
+    "n": 126,
+    "positive_trunc": 12,
+    "all_trunc": 14,
+    "positive_missense": 22,
+    "all_missense": 112,
+    "odds_ratio": 24.545454545454547,
+    "p": 1.7286000858200016e-06
+  },
+  "sahoo": [
+    {
+      "cohort": "A",
+      "exclude_986": false,
+      "loss": 6,
+      "normal": 9,
+      "loss_median": 986.0,
+      "normal_median": 690.0,
+      "extreme": 8,
+      "assignments": 5005,
+      "p": 0.0015984015984015984
+    },
+    {
+      "cohort": "A",
+      "exclude_986": true,
+      "loss": 3,
+      "normal": 8,
+      "loss_median": 1116.0,
+      "normal_median": 690.0,
+      "extreme": 1,
+      "assignments": 165,
+      "p": 0.006060606060606061
+    },
+    {
+      "cohort": "B",
+      "exclude_986": false,
+      "loss": 11,
+      "normal": 2,
+      "loss_median": 986.0,
+      "normal_median": 746.5,
+      "extreme": 3,
+      "assignments": 78,
+      "p": 0.038461538461538464
+    },
+    {
+      "cohort": "B",
+      "exclude_986": true,
+      "loss": 9,
+      "normal": 2,
+      "loss_median": 1349.0,
+      "normal_median": 746.5,
+      "extreme": 3,
+      "assignments": 55,
+      "p": 0.05454545454545454
+    }
+  ]
+}

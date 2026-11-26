@@ -1,0 +1,12 @@
+Analysis,Metric,Observed,Null reference,Permutation p,Interpretation,N_configurations,N_backgrounds,Tail
+Pair-level 3D clustering,Median Cα distance (Å),40.20910477397729,43.18063820038934,0.13587864121358786,No statistically significant enrichment of proximity or confidence.,54,21,lower
+Pair-level 3D clustering,Mean Cα distance (Å),48.364864617434606,47.93834452783983,0.6188838111618884,No statistically significant enrichment of proximity or confidence.,54,21,lower
+Pair-level 3D clustering,Median heavy-atom distance (Å),37.35196143051568,39.59019857663869,0.1975580244197558,No statistically significant enrichment of proximity or confidence.,54,21,lower
+Contact thresholds,Pairs Cα <15 Å,1.0,1.12682,0.7322826771732283,No statistically significant enrichment of proximity or confidence.,54,21,upper
+Contact thresholds,Pairs heavy-atom <15 Å,3.0,3.2764,0.6897031029689703,No statistically significant enrichment of proximity or confidence.,54,21,upper
+AlphaFold confidence,Pairs with PAEmax≤5 Å,9.0,5.20156,0.027049729502704973,Nominal exploratory enrichment.,54,21,upper
+AlphaFold confidence,Pairs with PAEmax≤10 Å,17.0,14.47957,0.19195808041919582,No statistically significant enrichment of proximity or confidence.,54,21,upper
+Background-collapsed,Median Cα distance (Å),43.023549901074176,45.7131293393922,0.23808761912380877,No statistically significant enrichment of proximity or confidence.,54,21,lower
+Background-collapsed,Median heavy-atom distance (Å),40.226925831921406,41.7813318720215,0.35365646343536566,No statistically significant enrichment of proximity or confidence.,54,21,lower
+Background-collapsed,Median PAEmax (Å),16.0,16.0,0.5649743502564974,No statistically significant enrichment of proximity or confidence.,54,21,lower
+Sensitivity excluding R986C/R986H/R1281K,Median Cα distance (Å),50.95300057895635,48.7540252819518,0.7242127578724212,No statistically significant enrichment of proximity or confidence.,24,18,lower

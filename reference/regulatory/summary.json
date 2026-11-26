@@ -1,0 +1,32 @@
+{
+  "n_observations": 57,
+  "patients_all": 38,
+  "structural_events": 54,
+  "structural_backgrounds": 21,
+  "sequence_events": 54,
+  "sequence_patients": 37,
+  "sequence_backgrounds": 21,
+  "sequence_distinct_acquired_alleles": 47,
+  "phase_subsets": {
+    "confirmed12": 12,
+    "confirmed_reported23": 23,
+    "plus_inferred25": 25,
+    "all_modelled54": 54
+  },
+  "phase_counts_in_sequence": {
+    "unknown": 29,
+    "confirmed_cis": 11,
+    "reported_cis": 11,
+    "inferred_cis": 2,
+    "confirmed_cis_both": 1
+  },
+  "isolated_allele_entries": 138,
+  "RNA_mapping": {
+    "n_assignments": 270,
+    "n_alternatives": 175
+  },
+  "chromatin_mapping": {
+    "assignments": 270,
+    "unique_controls": 175
+  }
+}

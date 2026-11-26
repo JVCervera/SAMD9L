@@ -1,0 +1,503 @@
+patient,endpoint,age,protein,position,allele,variant_type,source,family,group
+STJ_P001,clinical,14.0,C1196S,1196,INT001,Missense,St Jude,CHEN_LI_AP,Pediatric
+STJ_P001,first,14.0,C1196S,1196,INT001,Missense,St Jude,CHEN_LI_AP,Pediatric
+STJ_P001,hematologic,17.0,C1196S,1196,INT001,Missense,St Jude,CHEN_LI_AP,Pediatric
+STJ_P001,mixed,14.0,C1196S,1196,INT001,Missense,St Jude,CHEN_LI_AP,Pediatric
+STJ_P002,clinical,3.0,C1196S,1196,INT001,Missense,St Jude,CHEN_LI_AP,Pediatric
+STJ_P002,first,3.0,C1196S,1196,INT001,Missense,St Jude,CHEN_LI_AP,Pediatric
+STJ_P002,hematologic,3.0,C1196S,1196,INT001,Missense,St Jude,CHEN_LI_AP,Pediatric
+STJ_P002,mixed,3.0,C1196S,1196,INT001,Missense,St Jude,CHEN_LI_AP,Pediatric
+STJ_P003,clinical,25.0,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Adult
+STJ_P003,first,25.0,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Adult
+STJ_P003,hematologic,45.0,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Adult
+STJ_P003,mixed,25.0,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Adult
+STJ_P004,clinical,6.0,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P004,first,6.0,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P004,mixed,6.0,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P005,clinical,6.5,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P005,first,6.5,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P005,hematologic,6.5,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P005,mixed,6.5,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P006,clinical,6.0,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P006,first,6.0,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P006,hematologic,6.0,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P006,mixed,6.0,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P007,clinical,54.0,C1196S,1196,INT001,Missense,St Jude,CHEN_LI_AP,Adult
+STJ_P007,mixed,54.0,C1196S,1196,INT001,Missense,St Jude,CHEN_LI_AP,Adult
+STJ_P008,clinical,18.0,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P008,first,18.0,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P008,mixed,18.0,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P009,clinical,1.0,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P009,first,1.0,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P009,hematologic,1.0,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P009,mixed,1.0,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P010,clinical,62.0,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Adult
+STJ_P010,first,62.0,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Adult
+STJ_P010,mixed,62.0,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Adult
+STJ_P011,clinical,0.25,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P011,first,0.25,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P011,hematologic,0.25,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P011,mixed,0.25,H880Q,880,INT002,Missense,St Jude,CHEN_UW_AP,Pediatric
+STJ_P012,clinical,32.0,I891T,891,INT003,Missense,St Jude,TESI_F2_I891T,Adult
+STJ_P012,mixed,32.0,I891T,891,INT003,Missense,St Jude,TESI_F2_I891T,Adult
+STJ_P013,clinical,30.0,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Adult
+STJ_P013,mixed,30.0,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Adult
+STJ_P014,clinical,33.0,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Adult
+STJ_P014,mixed,33.0,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Adult
+STJ_P015,clinical,15.0,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Pediatric
+STJ_P015,first,15.0,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Pediatric
+STJ_P015,hematologic,61.0,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Adult
+STJ_P015,mixed,15.0,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Pediatric
+STJ_P016,clinical,1.75,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Pediatric
+STJ_P016,first,1.75,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Pediatric
+STJ_P016,hematologic,1.75,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Pediatric
+STJ_P016,mixed,1.75,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Pediatric
+STJ_P017,clinical,1.5,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Pediatric
+STJ_P017,first,1.5,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Pediatric
+STJ_P017,hematologic,1.5,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Pediatric
+STJ_P017,mixed,1.5,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Pediatric
+STJ_P018,clinical,5.697467488021903,R1281K,1281,INT006,Missense,St Jude,,Pediatric
+STJ_P018,first,5.697467488021903,R1281K,1281,INT006,Missense,St Jude,,Pediatric
+STJ_P018,hematologic,5.697467488021903,R1281K,1281,INT006,Missense,St Jude,,Pediatric
+STJ_P018,mixed,5.697467488021903,R1281K,1281,INT006,Missense,St Jude,,Pediatric
+STJ_P019,clinical,12.57494866529774,S626L,626,INT007,Missense,St Jude,WONG2017_P7_S626L,Pediatric
+STJ_P019,first,12.57494866529774,S626L,626,INT007,Missense,St Jude,WONG2017_P7_S626L,Pediatric
+STJ_P019,hematologic,12.57494866529774,S626L,626,INT007,Missense,St Jude,WONG2017_P7_S626L,Pediatric
+STJ_P019,mixed,12.57494866529774,S626L,626,INT007,Missense,St Jude,WONG2017_P7_S626L,Pediatric
+STJ_P020,clinical,5.91375770020534,W1180R,1180,INT008,Missense,St Jude,,Pediatric
+STJ_P020,first,5.91375770020534,W1180R,1180,INT008,Missense,St Jude,,Pediatric
+STJ_P020,hematologic,5.91375770020534,W1180R,1180,INT008,Missense,St Jude,,Pediatric
+STJ_P020,mixed,5.91375770020534,W1180R,1180,INT008,Missense,St Jude,,Pediatric
+STJ_P021,clinical,0.8870636550308009,S626L,626,INT007,Missense,St Jude,WONG2017_P7_S626L,Pediatric
+STJ_P021,first,0.8870636550308009,S626L,626,INT007,Missense,St Jude,WONG2017_P7_S626L,Pediatric
+STJ_P021,hematologic,0.8870636550308009,S626L,626,INT007,Missense,St Jude,WONG2017_P7_S626L,Pediatric
+STJ_P021,mixed,0.8870636550308009,S626L,626,INT007,Missense,St Jude,WONG2017_P7_S626L,Pediatric
+STJ_P022,clinical,54.0,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Adult
+STJ_P022,first,54.0,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Adult
+STJ_P022,hematologic,54.0,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Adult
+STJ_P022,mixed,54.0,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Adult
+STJ_P023,clinical,1.166666666666667,I891T,891,INT003,Missense,St Jude,TESI_F2_I891T,Pediatric
+STJ_P023,first,1.166666666666667,I891T,891,INT003,Missense,St Jude,TESI_F2_I891T,Pediatric
+STJ_P023,hematologic,1.166666666666667,I891T,891,INT003,Missense,St Jude,TESI_F2_I891T,Pediatric
+STJ_P023,mixed,1.166666666666667,I891T,891,INT003,Missense,St Jude,TESI_F2_I891T,Pediatric
+STJ_P024,clinical,0.11498973305954825,I891T,891,INT003,Missense,St Jude,TESI_F2_I891T,Pediatric
+STJ_P024,first,0.11498973305954825,I891T,891,INT003,Missense,St Jude,TESI_F2_I891T,Pediatric
+STJ_P024,hematologic,0.11498973305954825,I891T,891,INT003,Missense,St Jude,TESI_F2_I891T,Pediatric
+STJ_P024,mixed,0.11498973305954825,I891T,891,INT003,Missense,St Jude,TESI_F2_I891T,Pediatric
+STJ_P025,clinical,0.4166666666666667,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Pediatric
+STJ_P025,first,0.4166666666666667,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Pediatric
+STJ_P025,hematologic,0.4166666666666667,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Pediatric
+STJ_P025,mixed,0.4166666666666667,R986C,986,INT004,Missense,St Jude,TESI_F1_R986C,Pediatric
+STJ_P026,clinical,0.8333333333333334,I1493V,1493,INT009,Missense,St Jude,,Pediatric
+STJ_P026,first,0.8333333333333334,I1493V,1493,INT009,Missense,St Jude,,Pediatric
+STJ_P026,hematologic,0.8333333333333334,I1493V,1493,INT009,Missense,St Jude,,Pediatric
+STJ_P026,mixed,0.8333333333333334,I1493V,1493,INT009,Missense,St Jude,,Pediatric
+STJ_P027,clinical,0.6666666666666666,L1521V,1521,INT010,Missense,St Jude,,Pediatric
+STJ_P027,first,0.6666666666666666,L1521V,1521,INT010,Missense,St Jude,,Pediatric
+STJ_P027,hematologic,0.6666666666666666,L1521V,1521,INT010,Missense,St Jude,,Pediatric
+STJ_P027,mixed,0.6666666666666666,L1521V,1521,INT010,Missense,St Jude,,Pediatric
+STJ_P028,clinical,1.583333333333333,S952Hfs*2,952,INT011,Frameshift,St Jude,,Pediatric
+STJ_P028,first,1.583333333333333,S952Hfs*2,952,INT011,Frameshift,St Jude,,Pediatric
+STJ_P028,hematologic,1.583333333333333,S952Hfs*2,952,INT011,Frameshift,St Jude,,Pediatric
+STJ_P028,mixed,1.583333333333333,S952Hfs*2,952,INT011,Frameshift,St Jude,,Pediatric
+STJ_P029,clinical,1.083333333333333,M840K,840,INT012,Missense,St Jude,,Pediatric
+STJ_P029,first,1.083333333333333,M840K,840,INT012,Missense,St Jude,,Pediatric
+STJ_P029,hematologic,1.083333333333333,M840K,840,INT012,Missense,St Jude,,Pediatric
+STJ_P029,mixed,1.083333333333333,M840K,840,INT012,Missense,St Jude,,Pediatric
+STJ_P030,clinical,1.083333333333333,S1550P,1550,INT013,Missense,St Jude,,Pediatric
+STJ_P030,first,1.083333333333333,S1550P,1550,INT013,Missense,St Jude,,Pediatric
+STJ_P030,hematologic,1.083333333333333,S1550P,1550,INT013,Missense,St Jude,,Pediatric
+STJ_P030,mixed,1.083333333333333,S1550P,1550,INT013,Missense,St Jude,,Pediatric
+STJ_P031,clinical,1.083333333333333,R986C,986,INT004,Missense,St Jude,SCHWARTZ_UB609_R986C,Pediatric
+STJ_P031,first,1.083333333333333,R986C,986,INT004,Missense,St Jude,SCHWARTZ_UB609_R986C,Pediatric
+STJ_P031,hematologic,1.083333333333333,R986C,986,INT004,Missense,St Jude,SCHWARTZ_UB609_R986C,Pediatric
+STJ_P031,mixed,1.083333333333333,R986C,986,INT004,Missense,St Jude,SCHWARTZ_UB609_R986C,Pediatric
+STJ_P032,clinical,1.083333333333333,R986C,986,INT004,Missense,St Jude,SCHWARTZ_UB609_R986C,Pediatric
+STJ_P032,first,1.083333333333333,R986C,986,INT004,Missense,St Jude,SCHWARTZ_UB609_R986C,Pediatric
+STJ_P032,hematologic,1.083333333333333,R986C,986,INT004,Missense,St Jude,SCHWARTZ_UB609_R986C,Pediatric
+STJ_P032,mixed,1.083333333333333,R986C,986,INT004,Missense,St Jude,SCHWARTZ_UB609_R986C,Pediatric
+STJ_P033,clinical,1.666666666666667,D1034Y,1034,INT014,Missense,St Jude,,Pediatric
+STJ_P033,first,1.666666666666667,D1034Y,1034,INT014,Missense,St Jude,,Pediatric
+STJ_P033,hematologic,1.666666666666667,D1034Y,1034,INT014,Missense,St Jude,,Pediatric
+STJ_P033,mixed,1.666666666666667,D1034Y,1034,INT014,Missense,St Jude,,Pediatric
+STJ_P034,clinical,46.0,S1143G,1143,INT015,Missense,St Jude,,Adult
+STJ_P034,first,46.0,S1143G,1143,INT015,Missense,St Jude,,Adult
+STJ_P034,hematologic,46.0,S1143G,1143,INT015,Missense,St Jude,,Adult
+STJ_P034,mixed,46.0,S1143G,1143,INT015,Missense,St Jude,,Adult
+STJ_P036,clinical,7.7,R986C,986,INT004,Missense,St Jude,PASTOR_F3_R986C,Pediatric
+STJ_P036,first,7.7,R986C,986,INT004,Missense,St Jude,PASTOR_F3_R986C,Pediatric
+STJ_P036,hematologic,7.7,R986C,986,INT004,Missense,St Jude,PASTOR_F3_R986C,Pediatric
+STJ_P036,mixed,7.7,R986C,986,INT004,Missense,St Jude,PASTOR_F3_R986C,Pediatric
+STJ_P037,clinical,1.0,R986H,986,INT017,Missense,St Jude,PASTOR_F2_R986H,Pediatric
+STJ_P037,first,1.0,R986H,986,INT017,Missense,St Jude,PASTOR_F2_R986H,Pediatric
+STJ_P037,hematologic,1.5,R986H,986,INT017,Missense,St Jude,PASTOR_F2_R986H,Pediatric
+STJ_P037,mixed,1.0,R986H,986,INT017,Missense,St Jude,PASTOR_F2_R986H,Pediatric
+STJ_P038,clinical,1.5,V1512M,1512,INT018,Missense,St Jude,PASTOR_F1_V1512M,Pediatric
+STJ_P038,first,1.5,V1512M,1512,INT018,Missense,St Jude,PASTOR_F1_V1512M,Pediatric
+STJ_P038,hematologic,2.0,V1512M,1512,INT018,Missense,St Jude,PASTOR_F1_V1512M,Pediatric
+STJ_P038,mixed,1.5,V1512M,1512,INT018,Missense,St Jude,PASTOR_F1_V1512M,Pediatric
+STJ_P039,clinical,1.666666666666667,H880Q,880,INT002,Missense,St Jude,PASTOR_F4_H880Q,Pediatric
+STJ_P039,first,1.666666666666667,H880Q,880,INT002,Missense,St Jude,PASTOR_F4_H880Q,Pediatric
+STJ_P039,hematologic,1.666666666666667,H880Q,880,INT002,Missense,St Jude,PASTOR_F4_H880Q,Pediatric
+STJ_P039,mixed,1.666666666666667,H880Q,880,INT002,Missense,St Jude,PASTOR_F4_H880Q,Pediatric
+STJ_P040,clinical,42.0,R986C,986,INT004,Missense,St Jude,PASTOR_F3_R986C,Adult
+STJ_P040,first,42.0,R986C,986,INT004,Missense,St Jude,PASTOR_F3_R986C,Adult
+STJ_P040,hematologic,42.0,R986C,986,INT004,Missense,St Jude,PASTOR_F3_R986C,Adult
+STJ_P040,mixed,42.0,R986C,986,INT004,Missense,St Jude,PASTOR_F3_R986C,Adult
+STJ_P041,clinical,5.5,H880Q,880,INT002,Missense,St Jude,WONG_F1_H880Q,Pediatric
+STJ_P041,first,5.5,H880Q,880,INT002,Missense,St Jude,WONG_F1_H880Q,Pediatric
+STJ_P041,hematologic,5.5,H880Q,880,INT002,Missense,St Jude,WONG_F1_H880Q,Pediatric
+STJ_P041,mixed,5.5,H880Q,880,INT002,Missense,St Jude,WONG_F1_H880Q,Pediatric
+STJ_P042,clinical,0.75,H880Q,880,INT002,Missense,St Jude,WONG_F1_H880Q,Pediatric
+STJ_P042,first,0.75,H880Q,880,INT002,Missense,St Jude,WONG_F1_H880Q,Pediatric
+STJ_P042,hematologic,0.75,H880Q,880,INT002,Missense,St Jude,WONG_F1_H880Q,Pediatric
+STJ_P042,mixed,0.75,H880Q,880,INT002,Missense,St Jude,WONG_F1_H880Q,Pediatric
+STJ_P043,clinical,10.75,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P043,first,10.75,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P043,mixed,10.75,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P044,clinical,6.0,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P044,first,6.0,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P044,mixed,6.0,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P045,clinical,9.6,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P045,first,9.6,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P045,mixed,9.6,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P046,clinical,13.25,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P046,first,13.25,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P046,mixed,13.25,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P047,clinical,3.5,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P047,first,3.5,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P047,hematologic,3.5,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P047,mixed,3.5,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P048,clinical,2.9,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P048,first,2.9,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P048,hematologic,2.9,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P048,mixed,2.9,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P049,clinical,0.6,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P049,first,0.6,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P049,hematologic,0.6,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P049,mixed,0.6,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P053,clinical,27.0,D1148H,1148,INT016,Missense,St Jude,SCHWARTZ_UB022_D1148H,Adult
+STJ_P053,first,27.0,D1148H,1148,INT016,Missense,St Jude,SCHWARTZ_UB022_D1148H,Adult
+STJ_P053,hematologic,27.0,D1148H,1148,INT016,Missense,St Jude,SCHWARTZ_UB022_D1148H,Adult
+STJ_P053,mixed,27.0,D1148H,1148,INT016,Missense,St Jude,SCHWARTZ_UB022_D1148H,Adult
+STJ_P054,clinical,1.0,R986H,986,INT017,Missense,St Jude,PASTOR_F2_R986H,Pediatric
+STJ_P054,first,1.0,R986H,986,INT017,Missense,St Jude,PASTOR_F2_R986H,Pediatric
+STJ_P054,hematologic,1.0,R986H,986,INT017,Missense,St Jude,PASTOR_F2_R986H,Pediatric
+STJ_P054,mixed,1.0,R986H,986,INT017,Missense,St Jude,PASTOR_F2_R986H,Pediatric
+STJ_P055,clinical,0.5,V1512M,1512,INT018,Missense,St Jude,PASTOR_F1_V1512M,Pediatric
+STJ_P055,first,0.5,V1512M,1512,INT018,Missense,St Jude,PASTOR_F1_V1512M,Pediatric
+STJ_P055,hematologic,0.5,V1512M,1512,INT018,Missense,St Jude,PASTOR_F1_V1512M,Pediatric
+STJ_P055,mixed,0.5,V1512M,1512,INT018,Missense,St Jude,PASTOR_F1_V1512M,Pediatric
+STJ_P056,clinical,2.5,R986C,986,INT004,Missense,St Jude,WONG_F3_R986C,Pediatric
+STJ_P056,first,2.5,R986C,986,INT004,Missense,St Jude,WONG_F3_R986C,Pediatric
+STJ_P056,hematologic,2.5,R986C,986,INT004,Missense,St Jude,WONG_F3_R986C,Pediatric
+STJ_P056,mixed,2.5,R986C,986,INT004,Missense,St Jude,WONG_F3_R986C,Pediatric
+STJ_P057,clinical,3.0,V1512A,1512,INT019,Missense,St Jude,WONG_F4_V1512A,Pediatric
+STJ_P057,first,3.0,V1512A,1512,INT019,Missense,St Jude,WONG_F4_V1512A,Pediatric
+STJ_P057,hematologic,3.0,V1512A,1512,INT019,Missense,St Jude,WONG_F4_V1512A,Pediatric
+STJ_P057,mixed,3.0,V1512A,1512,INT019,Missense,St Jude,WONG_F4_V1512A,Pediatric
+STJ_P058,clinical,0.3333333333333333,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P058,first,0.3333333333333333,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P058,hematologic,0.3333333333333333,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P058,mixed,0.3333333333333333,R1281K,1281,INT006,Missense,St Jude,WONG_F5_R1281K,Pediatric
+STJ_P059,clinical,1.083333333333333,S1473N,1473,INT021,Missense,St Jude,S1473N_30923096,Pediatric
+STJ_P059,first,1.083333333333333,S1473N,1473,INT021,Missense,St Jude,S1473N_30923096,Pediatric
+STJ_P059,hematologic,1.083333333333333,S1473N,1473,INT021,Missense,St Jude,S1473N_30923096,Pediatric
+STJ_P059,mixed,1.083333333333333,S1473N,1473,INT021,Missense,St Jude,S1473N_30923096,Pediatric
+STJ_P060,clinical,1.416666666666667,S1473N,1473,INT021,Missense,St Jude,S1473N_30923096,Pediatric
+STJ_P060,first,1.416666666666667,S1473N,1473,INT021,Missense,St Jude,S1473N_30923096,Pediatric
+STJ_P060,hematologic,1.416666666666667,S1473N,1473,INT021,Missense,St Jude,S1473N_30923096,Pediatric
+STJ_P060,mixed,1.416666666666667,S1473N,1473,INT021,Missense,St Jude,S1473N_30923096,Pediatric
+STJ_P061,clinical,5.0,S1473N,1473,INT021,Missense,St Jude,S1473N_30923096,Pediatric
+STJ_P061,first,5.0,S1473N,1473,INT021,Missense,St Jude,S1473N_30923096,Pediatric
+STJ_P061,hematologic,5.0,S1473N,1473,INT021,Missense,St Jude,S1473N_30923096,Pediatric
+STJ_P061,mixed,5.0,S1473N,1473,INT021,Missense,St Jude,S1473N_30923096,Pediatric
+STJ_P062,clinical,1.083333333333333,S1473N,1473,INT021,Missense,St Jude,S1473N_30923096,Pediatric
+STJ_P062,first,1.083333333333333,S1473N,1473,INT021,Missense,St Jude,S1473N_30923096,Pediatric
+STJ_P062,hematologic,1.083333333333333,S1473N,1473,INT021,Missense,St Jude,S1473N_30923096,Pediatric
+STJ_P062,mixed,1.083333333333333,S1473N,1473,INT021,Missense,St Jude,S1473N_30923096,Pediatric
+STJ_P064,clinical,0.25,F896V,896,INT024,Missense,St Jude,,Pediatric
+STJ_P064,first,0.25,F896V,896,INT024,Missense,St Jude,,Pediatric
+STJ_P064,hematologic,0.25,F896V,896,INT024,Missense,St Jude,,Pediatric
+STJ_P064,mixed,0.25,F896V,896,INT024,Missense,St Jude,,Pediatric
+STJ_P065,clinical,0.7,V1551L,1551,INT025,Missense,St Jude,DE_NOVO_STJ_P065,Pediatric
+STJ_P065,first,0.7,V1551L,1551,INT025,Missense,St Jude,DE_NOVO_STJ_P065,Pediatric
+STJ_P065,hematologic,0.7,V1551L,1551,INT025,Missense,St Jude,DE_NOVO_STJ_P065,Pediatric
+STJ_P065,mixed,0.7,V1551L,1551,INT025,Missense,St Jude,DE_NOVO_STJ_P065,Pediatric
+STJ_P066,clinical,0.0,F886Lfs*11,886,INT026,Frameshift,St Jude,DE_NOVO_STJ_P066,Pediatric
+STJ_P066,first,0.0,F886Lfs*11,886,INT026,Frameshift,St Jude,DE_NOVO_STJ_P066,Pediatric
+STJ_P066,hematologic,0.0,F886Lfs*11,886,INT026,Frameshift,St Jude,DE_NOVO_STJ_P066,Pediatric
+STJ_P066,mixed,0.0,F886Lfs*11,886,INT026,Frameshift,St Jude,DE_NOVO_STJ_P066,Pediatric
+STJ_P067,clinical,0.25,F889Sfs*2,889,INT027,Frameshift,St Jude,DE_NOVO_STJ_P067,Pediatric
+STJ_P067,mixed,0.25,F889Sfs*2,889,INT027,Frameshift,St Jude,DE_NOVO_STJ_P067,Pediatric
+STJ_P068,clinical,2.0,S1509R,1509,INT028,Missense,St Jude,,Pediatric
+STJ_P068,hematologic,2.0,S1509R,1509,INT028,Missense,St Jude,,Pediatric
+STJ_P068,mixed,2.0,S1509R,1509,INT028,Missense,St Jude,,Pediatric
+STJ_P070,clinical,0.1666666666666667,F886Lfs*11,886,INT026,Frameshift,St Jude,DE_NOVO_STJ_P070,Pediatric
+STJ_P070,hematologic,0.1666666666666667,F886Lfs*11,886,INT026,Frameshift,St Jude,DE_NOVO_STJ_P070,Pediatric
+STJ_P070,mixed,0.1666666666666667,F886Lfs*11,886,INT026,Frameshift,St Jude,DE_NOVO_STJ_P070,Pediatric
+STJ_P071,clinical,0.8333333333333334,I876Lfs*15,876,INT029,Frameshift,St Jude,DE_NOVO_STJ_P071,Pediatric
+STJ_P071,mixed,0.8333333333333334,I876Lfs*15,876,INT029,Frameshift,St Jude,DE_NOVO_STJ_P071,Pediatric
+STJ_P073,clinical,3.166666666666667,K878Sfs*13,878,INT046,Frameshift,St Jude,DE_NOVO_STJ_P073,Pediatric
+STJ_P073,mixed,3.166666666666667,K878Sfs*13,878,INT046,Frameshift,St Jude,DE_NOVO_STJ_P073,Pediatric
+STJ_P074,clinical,2.0,W1507R,1507,INT031,Missense,St Jude,,Pediatric
+STJ_P074,hematologic,2.0,W1507R,1507,INT031,Missense,St Jude,,Pediatric
+STJ_P074,mixed,2.0,W1507R,1507,INT031,Missense,St Jude,,Pediatric
+STJ_P075,clinical,4.1,R828Q,828,INT032,Missense,St Jude,,Pediatric
+STJ_P075,first,4.1,R828Q,828,INT032,Missense,St Jude,,Pediatric
+STJ_P075,hematologic,4.1,R828Q,828,INT032,Missense,St Jude,,Pediatric
+STJ_P075,mixed,4.1,R828Q,828,INT032,Missense,St Jude,,Pediatric
+STJ_P076,clinical,12.3,E830*,830,INT033,Nonsense,St Jude,,Pediatric
+STJ_P076,first,12.3,E830*,830,INT033,Nonsense,St Jude,,Pediatric
+STJ_P076,hematologic,12.3,E830*,830,INT033,Nonsense,St Jude,,Pediatric
+STJ_P076,mixed,12.3,E830*,830,INT033,Nonsense,St Jude,,Pediatric
+STJ_P077,clinical,12.2,R986H,986,INT017,Missense,St Jude,,Pediatric
+STJ_P077,first,12.2,R986H,986,INT017,Missense,St Jude,,Pediatric
+STJ_P077,hematologic,12.2,R986H,986,INT017,Missense,St Jude,,Pediatric
+STJ_P077,mixed,12.2,R986H,986,INT017,Missense,St Jude,,Pediatric
+STJ_P078,clinical,0.5,R986H,986,INT017,Missense,St Jude,,Pediatric
+STJ_P078,first,0.5,R986H,986,INT017,Missense,St Jude,,Pediatric
+STJ_P078,hematologic,0.5,R986H,986,INT017,Missense,St Jude,,Pediatric
+STJ_P078,mixed,0.5,R986H,986,INT017,Missense,St Jude,,Pediatric
+STJ_P080,clinical,8.8,A637T,637,INT035,Missense,St Jude,,Pediatric
+STJ_P080,first,8.8,A637T,637,INT035,Missense,St Jude,,Pediatric
+STJ_P080,hematologic,8.8,A637T,637,INT035,Missense,St Jude,,Pediatric
+STJ_P080,mixed,8.8,A637T,637,INT035,Missense,St Jude,,Pediatric
+STJ_P081,clinical,10.0,G690D,690,INT036,Missense,St Jude,,Pediatric
+STJ_P081,first,10.0,G690D,690,INT036,Missense,St Jude,,Pediatric
+STJ_P081,hematologic,10.0,G690D,690,INT036,Missense,St Jude,,Pediatric
+STJ_P081,mixed,10.0,G690D,690,INT036,Missense,St Jude,,Pediatric
+STJ_P082,clinical,5.4,G690D,690,INT036,Missense,St Jude,,Pediatric
+STJ_P082,first,5.4,G690D,690,INT036,Missense,St Jude,,Pediatric
+STJ_P082,hematologic,5.4,G690D,690,INT036,Missense,St Jude,,Pediatric
+STJ_P082,mixed,5.4,G690D,690,INT036,Missense,St Jude,,Pediatric
+STJ_P083,clinical,4.8,G690D,690,INT036,Missense,St Jude,,Pediatric
+STJ_P083,first,4.8,G690D,690,INT036,Missense,St Jude,,Pediatric
+STJ_P083,hematologic,4.8,G690D,690,INT036,Missense,St Jude,,Pediatric
+STJ_P083,mixed,4.8,G690D,690,INT036,Missense,St Jude,,Pediatric
+STJ_P084,clinical,0.4166666666666667,P1349L,1349,INT037,Missense,St Jude,DE_NOVO_STJ_P084,Pediatric
+STJ_P084,first,0.4166666666666667,P1349L,1349,INT037,Missense,St Jude,DE_NOVO_STJ_P084,Pediatric
+STJ_P084,hematologic,0.4166666666666667,P1349L,1349,INT037,Missense,St Jude,DE_NOVO_STJ_P084,Pediatric
+STJ_P084,mixed,0.4166666666666667,P1349L,1349,INT037,Missense,St Jude,DE_NOVO_STJ_P084,Pediatric
+STJ_P085,clinical,1.6,R986C,986,INT004,Missense,St Jude,,Pediatric
+STJ_P085,first,1.6,R986C,986,INT004,Missense,St Jude,,Pediatric
+STJ_P085,hematologic,1.6,R986C,986,INT004,Missense,St Jude,,Pediatric
+STJ_P085,mixed,1.6,R986C,986,INT004,Missense,St Jude,,Pediatric
+STJ_P086,clinical,15.4,R986C,986,INT004,Missense,St Jude,,Pediatric
+STJ_P086,first,15.4,R986C,986,INT004,Missense,St Jude,,Pediatric
+STJ_P086,hematologic,15.4,R986C,986,INT004,Missense,St Jude,,Pediatric
+STJ_P086,mixed,15.4,R986C,986,INT004,Missense,St Jude,,Pediatric
+STJ_P087,clinical,4.3,S1473N,1473,INT021,Missense,St Jude,,Pediatric
+STJ_P087,first,4.3,S1473N,1473,INT021,Missense,St Jude,,Pediatric
+STJ_P087,hematologic,4.3,S1473N,1473,INT021,Missense,St Jude,,Pediatric
+STJ_P087,mixed,4.3,S1473N,1473,INT021,Missense,St Jude,,Pediatric
+STJ_P088,clinical,0.5,M892R,892,INT038,Missense,St Jude,,Pediatric
+STJ_P088,first,0.5,M892R,892,INT038,Missense,St Jude,,Pediatric
+STJ_P088,hematologic,0.5,M892R,892,INT038,Missense,St Jude,,Pediatric
+STJ_P088,mixed,0.5,M892R,892,INT038,Missense,St Jude,,Pediatric
+STJ_P089,clinical,0.3333333333333333,T1474P,1474,INT039,Missense,St Jude,,Pediatric
+STJ_P089,first,0.3333333333333333,T1474P,1474,INT039,Missense,St Jude,,Pediatric
+STJ_P089,hematologic,0.3333333333333333,T1474P,1474,INT039,Missense,St Jude,,Pediatric
+STJ_P089,mixed,0.3333333333333333,T1474P,1474,INT039,Missense,St Jude,,Pediatric
+STJ_P090,clinical,9.9,K770E,770,INT040,Missense,St Jude,,Pediatric
+STJ_P090,first,9.9,K770E,770,INT040,Missense,St Jude,,Pediatric
+STJ_P090,hematologic,9.9,K770E,770,INT040,Missense,St Jude,,Pediatric
+STJ_P090,mixed,9.9,K770E,770,INT040,Missense,St Jude,,Pediatric
+STJ_P091,clinical,64.0,R986C,986,INT004,Missense,St Jude,,Adult
+STJ_P091,hematologic,64.0,R986C,986,INT004,Missense,St Jude,,Adult
+STJ_P091,mixed,64.0,R986C,986,INT004,Missense,St Jude,,Adult
+STJ_P092,clinical,12.7,Y72C,72,INT041,Missense,St Jude,,Pediatric
+STJ_P092,first,12.7,Y72C,72,INT041,Missense,St Jude,,Pediatric
+STJ_P092,hematologic,12.7,Y72C,72,INT041,Missense,St Jude,,Pediatric
+STJ_P092,mixed,12.7,Y72C,72,INT041,Missense,St Jude,,Pediatric
+STJ_P096,clinical,1.7,K770E,770,INT040,Missense,St Jude,DE_NOVO_STJ_P096,Pediatric
+STJ_P096,first,1.7,K770E,770,INT040,Missense,St Jude,DE_NOVO_STJ_P096,Pediatric
+STJ_P096,hematologic,1.7,K770E,770,INT040,Missense,St Jude,DE_NOVO_STJ_P096,Pediatric
+STJ_P096,mixed,1.7,K770E,770,INT040,Missense,St Jude,DE_NOVO_STJ_P096,Pediatric
+STJ_P097,clinical,28.0,R986C,986,INT004,Missense,St Jude,DE_NOVO_STJ_P097,Adult
+STJ_P097,mixed,28.0,R986C,986,INT004,Missense,St Jude,DE_NOVO_STJ_P097,Adult
+STJ_P098,clinical,18.1,T665P,665,INT044,Missense,St Jude,,Adult
+STJ_P098,first,18.1,T665P,665,INT044,Missense,St Jude,,Adult
+STJ_P098,hematologic,18.1,T665P,665,INT044,Missense,St Jude,,Adult
+STJ_P098,mixed,18.1,T665P,665,INT044,Missense,St Jude,,Adult
+STJ_P099,clinical,42.0,I972T,972,INT045,Missense,St Jude,,Adult
+STJ_P099,first,42.0,I972T,972,INT045,Missense,St Jude,,Adult
+STJ_P099,mixed,42.0,I972T,972,INT045,Missense,St Jude,,Adult
+STJ_P100,clinical,0.0,F886Lfs*11,886,INT026,Frameshift,St Jude,DE_NOVO_STJ_P100,Pediatric
+STJ_P100,first,0.0,F886Lfs*11,886,INT026,Frameshift,St Jude,DE_NOVO_STJ_P100,Pediatric
+STJ_P100,hematologic,0.01095140314852841,F886Lfs*11,886,INT026,Frameshift,St Jude,DE_NOVO_STJ_P100,Pediatric
+STJ_P100,mixed,0.0,F886Lfs*11,886,INT026,Frameshift,St Jude,DE_NOVO_STJ_P100,Pediatric
+STJ_P102,clinical,0.0027378507871321013,N885Tfs*6,885,INT047,Frameshift,St Jude,RUSSELL_F1_N885fs,Pediatric
+STJ_P102,first,0.0027378507871321013,N885Tfs*6,885,INT047,Frameshift,St Jude,RUSSELL_F1_N885fs,Pediatric
+STJ_P102,mixed,0.0027378507871321013,N885Tfs*6,885,INT047,Frameshift,St Jude,RUSSELL_F1_N885fs,Pediatric
+STJ_P103,clinical,13.9,I876T,876,INT048,Missense,St Jude,,Pediatric
+STJ_P103,first,13.9,I876T,876,INT048,Missense,St Jude,,Pediatric
+STJ_P103,hematologic,13.9,I876T,876,INT048,Missense,St Jude,,Pediatric
+STJ_P103,mixed,13.9,I876T,876,INT048,Missense,St Jude,,Pediatric
+STJ_P104,clinical,12.2,R828Q,828,INT032,Missense,St Jude,,Pediatric
+STJ_P104,first,12.2,R828Q,828,INT032,Missense,St Jude,,Pediatric
+STJ_P104,hematologic,12.2,R828Q,828,INT032,Missense,St Jude,,Pediatric
+STJ_P104,mixed,12.2,R828Q,828,INT032,Missense,St Jude,,Pediatric
+STJ_P105,clinical,5.5,R986H,986,INT017,Missense,St Jude,,Pediatric
+STJ_P105,first,5.5,R986H,986,INT017,Missense,St Jude,,Pediatric
+STJ_P105,hematologic,5.5,R986H,986,INT017,Missense,St Jude,,Pediatric
+STJ_P105,mixed,5.5,R986H,986,INT017,Missense,St Jude,,Pediatric
+STJ_P106,clinical,4.0,M892R,892,INT038,Missense,St Jude,DE_NOVO_STJ_P106,Pediatric
+STJ_P106,first,4.0,M892R,892,INT038,Missense,St Jude,DE_NOVO_STJ_P106,Pediatric
+STJ_P106,hematologic,4.0,M892R,892,INT038,Missense,St Jude,DE_NOVO_STJ_P106,Pediatric
+STJ_P106,mixed,4.0,M892R,892,INT038,Missense,St Jude,DE_NOVO_STJ_P106,Pediatric
+STJ_P107,clinical,0.2,N1116H,1116,INT049,Missense,St Jude,DE_NOVO_STJ_P107,Pediatric
+STJ_P107,first,0.2,N1116H,1116,INT049,Missense,St Jude,DE_NOVO_STJ_P107,Pediatric
+STJ_P107,hematologic,0.2,N1116H,1116,INT049,Missense,St Jude,DE_NOVO_STJ_P107,Pediatric
+STJ_P107,mixed,0.2,N1116H,1116,INT049,Missense,St Jude,DE_NOVO_STJ_P107,Pediatric
+STJ_P108,clinical,1.8,W1513R,1513,INT050,Missense,St Jude,,Pediatric
+STJ_P108,first,1.8,W1513R,1513,INT050,Missense,St Jude,,Pediatric
+STJ_P108,hematologic,1.8,W1513R,1513,INT050,Missense,St Jude,,Pediatric
+STJ_P108,mixed,1.8,W1513R,1513,INT050,Missense,St Jude,,Pediatric
+STJ_P110,clinical,40.0,D934H,934,INT053,Missense,St Jude,,Adult
+STJ_P110,first,40.0,D934H,934,INT053,Missense,St Jude,,Adult
+STJ_P110,mixed,40.0,D934H,934,INT053,Missense,St Jude,,Adult
+STJ_P111,clinical,0.0,I876Lfs*15,876,INT029,Frameshift,St Jude,DE_NOVO_STJ_P111,Pediatric
+STJ_P111,first,0.0,I876Lfs*15,876,INT029,Frameshift,St Jude,DE_NOVO_STJ_P111,Pediatric
+STJ_P111,mixed,0.0,I876Lfs*15,876,INT029,Frameshift,St Jude,DE_NOVO_STJ_P111,Pediatric
+STJ_P112,clinical,6.0,Y688N,688,INT054,Missense,St Jude,,Pediatric
+STJ_P112,first,6.0,Y688N,688,INT054,Missense,St Jude,,Pediatric
+STJ_P112,hematologic,6.0,Y688N,688,INT054,Missense,St Jude,,Pediatric
+STJ_P112,mixed,6.0,Y688N,688,INT054,Missense,St Jude,,Pediatric
+STJ_P113,clinical,37.0,R986C,986,INT004,Missense,St Jude,R986C_36553623,Adult
+STJ_P113,mixed,37.0,R986C,986,INT004,Missense,St Jude,R986C_36553623,Adult
+STJ_P114,clinical,10.0,R986C,986,INT004,Missense,St Jude,R986C_36553623,Pediatric
+STJ_P114,hematologic,14.0,R986C,986,INT004,Missense,St Jude,R986C_36553623,Pediatric
+STJ_P114,mixed,10.0,R986C,986,INT004,Missense,St Jude,R986C_36553623,Pediatric
+STJ_P115,clinical,45.0,S626L,626,INT007,Missense,St Jude,SCA49_S626L_KINDRED,Adult
+STJ_P115,first,45.0,S626L,626,INT007,Missense,St Jude,SCA49_S626L_KINDRED,Adult
+STJ_P115,mixed,45.0,S626L,626,INT007,Missense,St Jude,SCA49_S626L_KINDRED,Adult
+STJ_P116,clinical,48.0,S626L,626,INT007,Missense,St Jude,SCA49_S626L_KINDRED,Adult
+STJ_P116,first,48.0,S626L,626,INT007,Missense,St Jude,SCA49_S626L_KINDRED,Adult
+STJ_P116,mixed,48.0,S626L,626,INT007,Missense,St Jude,SCA49_S626L_KINDRED,Adult
+STJ_P117,clinical,50.0,S626L,626,INT007,Missense,St Jude,SCA49_S626L_KINDRED,Adult
+STJ_P117,first,50.0,S626L,626,INT007,Missense,St Jude,SCA49_S626L_KINDRED,Adult
+STJ_P117,mixed,50.0,S626L,626,INT007,Missense,St Jude,SCA49_S626L_KINDRED,Adult
+STJ_P118,clinical,15.0,S626L,626,INT007,Missense,St Jude,SCA49_S626L_KINDRED,Pediatric
+STJ_P118,first,15.0,S626L,626,INT007,Missense,St Jude,SCA49_S626L_KINDRED,Pediatric
+STJ_P118,mixed,15.0,S626L,626,INT007,Missense,St Jude,SCA49_S626L_KINDRED,Pediatric
+STJ_P119,clinical,12.0,S626L,626,INT007,Missense,St Jude,SCA49_S626L_KINDRED,Pediatric
+STJ_P119,first,12.0,S626L,626,INT007,Missense,St Jude,SCA49_S626L_KINDRED,Pediatric
+STJ_P119,mixed,12.0,S626L,626,INT007,Missense,St Jude,SCA49_S626L_KINDRED,Pediatric
+STJ_P120,clinical,7.0,C1267F,1267,INT055,Missense,St Jude,,Pediatric
+STJ_P120,first,7.0,C1267F,1267,INT055,Missense,St Jude,,Pediatric
+STJ_P120,hematologic,7.0,C1267F,1267,INT055,Missense,St Jude,,Pediatric
+STJ_P120,mixed,7.0,C1267F,1267,INT055,Missense,St Jude,,Pediatric
+STJ_P121,clinical,2.0,W1435R,1435,INT056,Missense,St Jude,SHORT_TELOMERE_F2_W1435R,Pediatric
+STJ_P121,first,2.0,W1435R,1435,INT056,Missense,St Jude,SHORT_TELOMERE_F2_W1435R,Pediatric
+STJ_P121,hematologic,2.5,W1435R,1435,INT056,Missense,St Jude,SHORT_TELOMERE_F2_W1435R,Pediatric
+STJ_P121,mixed,2.0,W1435R,1435,INT056,Missense,St Jude,SHORT_TELOMERE_F2_W1435R,Pediatric
+STJ_P122,clinical,45.0,W1435R,1435,INT056,Missense,St Jude,SHORT_TELOMERE_F2_W1435R,Adult
+STJ_P122,first,45.0,W1435R,1435,INT056,Missense,St Jude,SHORT_TELOMERE_F2_W1435R,Adult
+STJ_P122,hematologic,45.0,W1435R,1435,INT056,Missense,St Jude,SHORT_TELOMERE_F2_W1435R,Adult
+STJ_P122,mixed,45.0,W1435R,1435,INT056,Missense,St Jude,SHORT_TELOMERE_F2_W1435R,Adult
+STJ_P123,clinical,0.0,F886Lfs*11,886,INT026,Frameshift,St Jude,DE_NOVO_STJ_P123,Pediatric
+STJ_P123,first,0.0,F886Lfs*11,886,INT026,Frameshift,St Jude,DE_NOVO_STJ_P123,Pediatric
+STJ_P123,mixed,0.0,F886Lfs*11,886,INT026,Frameshift,St Jude,DE_NOVO_STJ_P123,Pediatric
+STJ_P124,clinical,0.1666666666666667,L861F,861,INT057,Missense,St Jude,,Pediatric
+STJ_P124,first,0.1666666666666667,L861F,861,INT057,Missense,St Jude,,Pediatric
+STJ_P124,hematologic,0.1666666666666667,L861F,861,INT057,Missense,St Jude,,Pediatric
+STJ_P124,mixed,0.1666666666666667,L861F,861,INT057,Missense,St Jude,,Pediatric
+STJ_P126,clinical,2.0,K1532N,1532,INT058,Missense,St Jude,DE_NOVO_STJ_P126,Pediatric
+STJ_P126,first,2.0,K1532N,1532,INT058,Missense,St Jude,DE_NOVO_STJ_P126,Pediatric
+STJ_P126,hematologic,2.0,K1532N,1532,INT058,Missense,St Jude,DE_NOVO_STJ_P126,Pediatric
+STJ_P126,mixed,2.0,K1532N,1532,INT058,Missense,St Jude,DE_NOVO_STJ_P126,Pediatric
+STJ_P127,clinical,0.01916495550992471,F889Sfs*2,889,INT027,Frameshift,St Jude,DE_NOVO_STJ_P127,Pediatric
+STJ_P127,first,0.01916495550992471,F889Sfs*2,889,INT027,Frameshift,St Jude,DE_NOVO_STJ_P127,Pediatric
+STJ_P127,hematologic,0.08333333333333333,F889Sfs*2,889,INT027,Frameshift,St Jude,DE_NOVO_STJ_P127,Pediatric
+STJ_P127,mixed,0.01916495550992471,F889Sfs*2,889,INT027,Frameshift,St Jude,DE_NOVO_STJ_P127,Pediatric
+STJ_P128,clinical,3.666666666666667,E1018K,1018,INT059,Missense,St Jude,WIMALACHANDRA_E1018K,Pediatric
+STJ_P128,first,3.666666666666667,E1018K,1018,INT059,Missense,St Jude,WIMALACHANDRA_E1018K,Pediatric
+STJ_P128,hematologic,3.666666666666667,E1018K,1018,INT059,Missense,St Jude,WIMALACHANDRA_E1018K,Pediatric
+STJ_P128,mixed,3.666666666666667,E1018K,1018,INT059,Missense,St Jude,WIMALACHANDRA_E1018K,Pediatric
+STJ_P129,clinical,0.25,S888F,888,INT060,Missense,St Jude,,Pediatric
+STJ_P129,first,0.25,S888F,888,INT060,Missense,St Jude,,Pediatric
+STJ_P129,hematologic,0.25,S888F,888,INT060,Missense,St Jude,,Pediatric
+STJ_P129,mixed,0.25,S888F,888,INT060,Missense,St Jude,,Pediatric
+NAG_Familial_W517R_index,clinical,0.75,W517R,517,INT020,Missense,Other,NAGATA_W517R,Pediatric
+NAG_Familial_W517R_index,mixed,0.75,W517R,517,INT020,Missense,Other,NAGATA_W517R,Pediatric
+NAG_W517R_FATHER,mixed,34.0,W517R,517,INT020,Missense,Other,NAGATA_W517R,Adult
+NAG_UPN004,mixed,78.0,I327V,327,INT081,Missense,Other,,Adult
+NAG_UPN005,mixed,77.0,L1322Sfs*17,1322,INT082,Frameshift / truncating,Other,,Adult
+NAG_UPN022,mixed,73.0,L50S,50,INT083,Missense,Other,,Adult
+NAG_UPN023,mixed,86.0,P123L,123,INT084,Missense,Other,,Adult
+NAG_UPN024,mixed,61.0,E220G,220,INT078,Missense,Other,,Adult
+NAG_UPN025,mixed,42.0,G235S,235,INT079,Missense,Other,,Adult
+NAG_UPN026,mixed,70.0,W333C,333,INT086,Missense,Other,,Adult
+NAG_UPN028,mixed,34.0,A637T,637,INT035,Missense,Other,,Adult
+NAG_UPN_ADD4,mixed,78.0,R1298G,1298,INT085,Missense,Other,,Adult
+NAG_UPN_ADD5,mixed,52.0,A637S,637,INT077,Missense,Other,,Adult
+NAG_UPN_ADD6,mixed,57.0,G247A,247,INT080,Missense,Other,,Adult
+MOL_PV1338,clinical,49.0,P64A,64,INT061,Missense,Other,,Adult
+MOL_PV1338,mixed,49.0,P64A,64,INT061,Missense,Other,,Adult
+MOL_PV1346,clinical,45.0,T832fs,832,INT062,Frameshift / truncating,Other,,Adult
+MOL_PV1346,mixed,45.0,T832fs,832,INT062,Frameshift / truncating,Other,,Adult
+MOL_PV2666,clinical,42.0,G690D,690,INT036,Missense,Other,,Adult
+MOL_PV2666,mixed,42.0,G690D,690,INT036,Missense,Other,,Adult
+MOL_PV2671,clinical,50.0,T832fs,832,INT062,Frameshift / truncating,Other,,Adult
+MOL_PV2671,mixed,50.0,T832fs,832,INT062,Frameshift / truncating,Other,,Adult
+MOL_PV30047,clinical,63.0,L1123P,1123,INT063,Missense,Other,,Adult
+MOL_PV30047,mixed,63.0,L1123P,1123,INT063,Missense,Other,,Adult
+VUELTA_K1294,clinical,31.0,K1294*,1294,INT103,Nonsense / truncating,Other,,Adult
+VUELTA_K1294,hematologic,31.0,K1294*,1294,INT103,Nonsense / truncating,Other,,Adult
+VUELTA_K1294,mixed,31.0,K1294*,1294,INT103,Nonsense / truncating,Other,,Adult
+VUELTA_N697Y,clinical,53.0,N697Y,697,INT102,Missense,Other,,Adult
+VUELTA_N697Y,hematologic,53.0,N697Y,697,INT102,Missense,Other,,Adult
+VUELTA_N697Y,mixed,53.0,N697Y,697,INT102,Missense,Other,,Adult
+PUB_38594844_Family_1_father,clinical,19.0,Q1043K,1043,INT089,Missense,Other,Q1043K_38594844_F1,Adult
+PUB_38594844_Family_1_father,first,19.0,Q1043K,1043,INT089,Missense,Other,Q1043K_38594844_F1,Adult
+PUB_38594844_Family_1_father,hematologic,31.0,Q1043K,1043,INT089,Missense,Other,Q1043K_38594844_F1,Adult
+PUB_38594844_Family_1_father,mixed,19.0,Q1043K,1043,INT089,Missense,Other,Q1043K_38594844_F1,Adult
+PUB_38594844_Family_1_proband,clinical,4.0,Q1043K,1043,INT089,Missense,Other,Q1043K_38594844_F1,Pediatric
+PUB_38594844_Family_1_proband,first,4.0,Q1043K,1043,INT089,Missense,Other,Q1043K_38594844_F1,Pediatric
+PUB_38594844_Family_1_proband,hematologic,4.0,Q1043K,1043,INT089,Missense,Other,Q1043K_38594844_F1,Pediatric
+PUB_38594844_Family_1_proband,mixed,4.0,Q1043K,1043,INT089,Missense,Other,Q1043K_38594844_F1,Pediatric
+PUB_33710394_FIN5_3,clinical,39.0,I908V,908,INT097,Missense,Other,DE_NOVO_PUB_33710394_FIN5_3,Adult
+PUB_33710394_FIN5_3,mixed,39.0,I908V,908,INT097,Missense,Other,DE_NOVO_PUB_33710394_FIN5_3,Adult
+PUB_35310830_IV_6,clinical,58.0,S626L,626,INT007,Missense,Other,SCA49_S626L_KINDRED,Adult
+PUB_35310830_IV_6,first,58.0,S626L,626,INT007,Missense,Other,SCA49_S626L_KINDRED,Adult
+PUB_35310830_IV_6,mixed,58.0,S626L,626,INT007,Missense,Other,SCA49_S626L_KINDRED,Adult
+PUB_37584291_P4_B063,clinical,0.5833333333333334,R986H,986,INT017,Missense,Other,ERLACHER_B063_R986H,Pediatric
+PUB_37584291_P4_B063,first,0.5833333333333334,R986H,986,INT017,Missense,Other,ERLACHER_B063_R986H,Pediatric
+PUB_37584291_P4_B063,hematologic,0.5833333333333334,R986H,986,INT017,Missense,Other,ERLACHER_B063_R986H,Pediatric
+PUB_37584291_P4_B063,mixed,0.5833333333333334,R986H,986,INT017,Missense,Other,ERLACHER_B063_R986H,Pediatric
+PUB_37584291_P5_KM,clinical,0.5,A1195V,1195,INT104,Missense,Other,,Pediatric
+PUB_37584291_P5_KM,hematologic,1.416666666666667,A1195V,1195,INT104,Missense,Other,,Pediatric
+PUB_37584291_P5_KM,mixed,0.5,A1195V,1195,INT104,Missense,Other,,Pediatric
+PUB_37584291_P6_CZ132,clinical,2.833333333333333,R1281W,1281,INT105,Missense,Other,,Pediatric
+PUB_37584291_P6_CZ132,first,2.833333333333333,R1281W,1281,INT105,Missense,Other,,Pediatric
+PUB_37584291_P6_CZ132,hematologic,2.833333333333333,R1281W,1281,INT105,Missense,Other,,Pediatric
+PUB_37584291_P6_CZ132,mixed,2.833333333333333,R1281W,1281,INT105,Missense,Other,,Pediatric
+PUB_37584291_P7_A146,clinical,1.25,D1034Y,1034,INT014,Missense,Other,,Pediatric
+PUB_37584291_P7_A146,first,1.25,D1034Y,1034,INT014,Missense,Other,,Pediatric
+PUB_37584291_P7_A146,hematologic,1.25,D1034Y,1034,INT014,Missense,Other,,Pediatric
+PUB_37584291_P7_A146,mixed,1.25,D1034Y,1034,INT014,Missense,Other,,Pediatric
+PUB_36880537_proband,clinical,6.0,E650G,650,INT087,Missense,Other,MONAGEL_E650G,Pediatric
+PUB_36880537_proband,hematologic,6.0,E650G,650,INT087,Missense,Other,MONAGEL_E650G,Pediatric
+PUB_36880537_proband,mixed,6.0,E650G,650,INT087,Missense,Other,MONAGEL_E650G,Pediatric
+PUB_35310830_V_3,clinical,37.0,S626L,626,INT007,Missense,Other,SCA49_S626L_KINDRED,Adult
+PUB_35310830_V_3,first,37.0,S626L,626,INT007,Missense,Other,SCA49_S626L_KINDRED,Adult
+PUB_35310830_V_3,mixed,37.0,S626L,626,INT007,Missense,Other,SCA49_S626L_KINDRED,Adult
+LIT_LIT010,mixed,13.0,S1550P,1550,INT013,Missense,Other,DE_NOVO_LIT_LIT010,Pediatric
+LIT_LIT011,mixed,59.0,T936I,936,INT042,Missense,Other,,Adult
+LIT_LIT002,clinical,0.2916666666666667,G1510R,1510,INT088,Missense,Other,G1510R_38231353,Pediatric
+LIT_LIT002,first,0.2916666666666667,G1510R,1510,INT088,Missense,Other,G1510R_38231353,Pediatric
+LIT_LIT002,hematologic,0.2916666666666667,G1510R,1510,INT088,Missense,Other,G1510R_38231353,Pediatric
+LIT_LIT002,mixed,0.2916666666666667,G1510R,1510,INT088,Missense,Other,G1510R_38231353,Pediatric
+LIT_LIT006,clinical,23.0,T832Hfs*3,832,INT090,Frameshift / truncating,Other,,Adult
+LIT_LIT006,mixed,23.0,T832Hfs*3,832,INT090,Frameshift / truncating,Other,,Adult
+LIT_LIT007,clinical,0.05749604714675866,S935Yfs*8,935,INT091,Frameshift / truncating,Other,DE_NOVO_LIT_LIT007,Pediatric
+LIT_LIT007,first,0.0,S935Yfs*8,935,INT091,Frameshift / truncating,Other,DE_NOVO_LIT_LIT007,Pediatric
+LIT_LIT007,mixed,0.0,S935Yfs*8,935,INT091,Frameshift / truncating,Other,DE_NOVO_LIT_LIT007,Pediatric
+LIT_LIT008,clinical,0.4166666666666667,G1510A,1510,INT092,Missense,Other,PFMG2025_G1510A_FAMILY,Pediatric
+LIT_LIT008,first,0.4166666666666667,G1510A,1510,INT092,Missense,Other,PFMG2025_G1510A_FAMILY,Pediatric
+LIT_LIT008,hematologic,0.5,G1510A,1510,INT092,Missense,Other,PFMG2025_G1510A_FAMILY,Pediatric
+LIT_LIT008,mixed,0.4166666666666667,G1510A,1510,INT092,Missense,Other,PFMG2025_G1510A_FAMILY,Pediatric
+LIT_41137672_SAAD_TMA,clinical,30.0,I332Nfs*17,332,INT106,Frameshift / truncating,Other,,Adult
+LIT_41137672_SAAD_TMA,hematologic,30.0,I332Nfs*17,332,INT106,Frameshift / truncating,Other,,Adult
+LIT_41137672_SAAD_TMA,mixed,30.0,I332Nfs*17,332,INT106,Frameshift / truncating,Other,,Adult

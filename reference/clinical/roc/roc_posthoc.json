@@ -1,0 +1,381 @@
+{
+  "main": {
+    "n": 105,
+    "auc": 0.7150950292397661
+  },
+  "omit_R1281K": {
+    "n": 96,
+    "loss": 52,
+    "comparator": 44,
+    "omitted_loss": 5,
+    "omitted_comparator": 4,
+    "auc": 0.7384178321678322,
+    "ci": [
+      0.6243194658448895,
+      0.8387980353649475
+    ],
+    "p": 3.871286524981673e-05,
+    "median_loss": 986.0,
+    "median_comparator": 845.5,
+    "optimal_cutoff": 986
+  },
+  "cutoffs": [
+    {
+      "cutoff": 986,
+      "tp": 42,
+      "fp": 17,
+      "tn": 31,
+      "fn": 15,
+      "sensitivity": 0.7368421052631579,
+      "specificity": 0.6458333333333334,
+      "youden": 0.3826754385964912
+    },
+    {
+      "cutoff": 876,
+      "tp": 51,
+      "fp": 25,
+      "tn": 23,
+      "fn": 6,
+      "sensitivity": 0.8947368421052632,
+      "specificity": 0.4791666666666667,
+      "youden": 0.3739035087719298
+    }
+  ],
+  "influence_scan": [
+    {
+      "variant": "G690D",
+      "removed": 3,
+      "auc": 0.6996101364522417
+    },
+    {
+      "variant": "A637T",
+      "removed": 2,
+      "auc": 0.704233409610984
+    },
+    {
+      "variant": "V1512A",
+      "removed": 2,
+      "auc": 0.7054924242424242
+    },
+    {
+      "variant": "V1512M",
+      "removed": 2,
+      "auc": 0.7054924242424242
+    },
+    {
+      "variant": "R828Q",
+      "removed": 2,
+      "auc": 0.7065217391304348
+    },
+    {
+      "variant": "E220G",
+      "removed": 1,
+      "auc": 0.7090332213512505
+    },
+    {
+      "variant": "G235S",
+      "removed": 1,
+      "auc": 0.7090332213512505
+    },
+    {
+      "variant": "G247A",
+      "removed": 1,
+      "auc": 0.7090332213512505
+    },
+    {
+      "variant": "L50S",
+      "removed": 1,
+      "auc": 0.7090332213512505
+    },
+    {
+      "variant": "P123L",
+      "removed": 1,
+      "auc": 0.7090332213512505
+    },
+    {
+      "variant": "P64A",
+      "removed": 1,
+      "auc": 0.7090332213512505
+    },
+    {
+      "variant": "Y72C",
+      "removed": 1,
+      "auc": 0.7090332213512505
+    },
+    {
+      "variant": "W333C",
+      "removed": 1,
+      "auc": 0.7094064949608063
+    },
+    {
+      "variant": "W517R",
+      "removed": 1,
+      "auc": 0.7094064949608063
+    },
+    {
+      "variant": "A637S",
+      "removed": 1,
+      "auc": 0.7097797685703621
+    },
+    {
+      "variant": "E650G",
+      "removed": 1,
+      "auc": 0.7097797685703621
+    },
+    {
+      "variant": "T665P",
+      "removed": 1,
+      "auc": 0.7097797685703621
+    },
+    {
+      "variant": "V1551L",
+      "removed": 1,
+      "auc": 0.7100074404761905
+    },
+    {
+      "variant": "K1532N",
+      "removed": 1,
+      "auc": 0.7103794642857143
+    },
+    {
+      "variant": "L1521V",
+      "removed": 1,
+      "auc": 0.7103794642857143
+    },
+    {
+      "variant": "W1513R",
+      "removed": 1,
+      "auc": 0.7103794642857143
+    },
+    {
+      "variant": "G1510R",
+      "removed": 1,
+      "auc": 0.7105654761904762
+    },
+    {
+      "variant": "I1493V",
+      "removed": 1,
+      "auc": 0.7107514880952381
+    },
+    {
+      "variant": "T1474P",
+      "removed": 1,
+      "auc": 0.7107514880952381
+    },
+    {
+      "variant": "W1507R",
+      "removed": 1,
+      "auc": 0.7107514880952381
+    },
+    {
+      "variant": "E830*",
+      "removed": 1,
+      "auc": 0.7108995893990295
+    },
+    {
+      "variant": "L861F",
+      "removed": 1,
+      "auc": 0.7112728630085853
+    },
+    {
+      "variant": "L1322Sfs*17",
+      "removed": 1,
+      "auc": 0.7114955357142857
+    },
+    {
+      "variant": "P1349L",
+      "removed": 1,
+      "auc": 0.7114955357142857
+    },
+    {
+      "variant": "R1281W",
+      "removed": 1,
+      "auc": 0.7126116071428571
+    },
+    {
+      "variant": "F886Lfs*11",
+      "removed": 1,
+      "auc": 0.7127659574468085
+    },
+    {
+      "variant": "N885Tfs*6",
+      "removed": 1,
+      "auc": 0.7127659574468085
+    },
+    {
+      "variant": "A1195V",
+      "removed": 1,
+      "auc": 0.7140997023809523
+    },
+    {
+      "variant": "D1148H",
+      "removed": 1,
+      "auc": 0.7140997023809523
+    },
+    {
+      "variant": "W1180R",
+      "removed": 1,
+      "auc": 0.7140997023809523
+    },
+    {
+      "variant": "F896V",
+      "removed": 1,
+      "auc": 0.7142590518850317
+    },
+    {
+      "variant": "I908V",
+      "removed": 1,
+      "auc": 0.7142590518850317
+    },
+    {
+      "variant": "S935Yfs*8",
+      "removed": 1,
+      "auc": 0.7142590518850317
+    },
+    {
+      "variant": "N1116H",
+      "removed": 1,
+      "auc": 0.7144717261904762
+    },
+    {
+      "variant": "I972T",
+      "removed": 1,
+      "auc": 0.7146323254945876
+    },
+    {
+      "variant": "S952Hfs*2",
+      "removed": 1,
+      "auc": 0.7146323254945876
+    },
+    {
+      "variant": "K770E",
+      "removed": 2,
+      "auc": 0.7165653495440729
+    },
+    {
+      "variant": "T936I",
+      "removed": 1,
+      "auc": 0.7170758928571429
+    },
+    {
+      "variant": "I891T",
+      "removed": 1,
+      "auc": 0.7181919642857143
+    },
+    {
+      "variant": "S888F",
+      "removed": 1,
+      "auc": 0.7181919642857143
+    },
+    {
+      "variant": "S626L",
+      "removed": 2,
+      "auc": 0.7188449848024316
+    },
+    {
+      "variant": "I876T",
+      "removed": 1,
+      "auc": 0.7193080357142857
+    },
+    {
+      "variant": "M840K",
+      "removed": 1,
+      "auc": 0.7196800595238095
+    },
+    {
+      "variant": "E1018K",
+      "removed": 1,
+      "auc": 0.7202314296379246
+    },
+    {
+      "variant": "D1034Y",
+      "removed": 2,
+      "auc": 0.7203647416413373
+    },
+    {
+      "variant": "Q1043K",
+      "removed": 1,
+      "auc": 0.7206047032474804
+    },
+    {
+      "variant": "S1143G",
+      "removed": 1,
+      "auc": 0.7209779768570362
+    },
+    {
+      "variant": "C1196S",
+      "removed": 2,
+      "auc": 0.7211246200607903
+    },
+    {
+      "variant": "N697Y",
+      "removed": 1,
+      "auc": 0.7211681547619048
+    },
+    {
+      "variant": "M892R",
+      "removed": 2,
+      "auc": 0.7214015151515152
+    },
+    {
+      "variant": "S1473N",
+      "removed": 2,
+      "auc": 0.7215045592705167
+    },
+    {
+      "variant": "Y688N",
+      "removed": 1,
+      "auc": 0.7222842261904762
+    },
+    {
+      "variant": "C1267F",
+      "removed": 1,
+      "auc": 0.7224710712952594
+    },
+    {
+      "variant": "R986H",
+      "removed": 7,
+      "auc": 0.7229870671672924
+    },
+    {
+      "variant": "H880Q",
+      "removed": 4,
+      "auc": 0.7245862884160756
+    },
+    {
+      "variant": "R1298G",
+      "removed": 1,
+      "auc": 0.7247107129525943
+    },
+    {
+      "variant": "I327V",
+      "removed": 1,
+      "auc": 0.7252604166666666
+    },
+    {
+      "variant": "W1435R",
+      "removed": 1,
+      "auc": 0.7254572601717059
+    },
+    {
+      "variant": "R986C",
+      "removed": 10,
+      "auc": 0.7262854609929078
+    },
+    {
+      "variant": "G1510A",
+      "removed": 1,
+      "auc": 0.727136991414707
+    },
+    {
+      "variant": "S1550P",
+      "removed": 1,
+      "auc": 0.7299365434863755
+    },
+    {
+      "variant": "R1281K",
+      "removed": 9,
+      "auc": 0.7384178321678322
+    }
+  ]
+}
